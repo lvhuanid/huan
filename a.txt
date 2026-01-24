@@ -198,106 +198,202 @@ composition// a piece of writing/music; the way parts are arranged → She submi
 
 comprehend// understand fully → I can't comprehend his strange behavior.
 
-comprehension
-comprehensive
-condemn
-condense
-condition
-conduct
-conductor
-disable
-disappear
-disappoint
-discipline
-disclose
-discover
-discovery
-hoist
-hold
-holder
-household
-however
-huddle
-narrative
-narrow
-nasty
-nation
-national
-nationality
-native
-natural
-nature
-overall
-overcome
-overlap
-portion
-possibility
-possible
-potential
-pour
-console
-consist
-consistent
-constant
-constituent
-constitute
-constitution
-constrain
-construct
-distinct
-distinction
-distinguish
-fruitful
-frustrate
-fulfil
-fulfill
-function
-fund
-fundamental
-evidence
-evident
-evil
-environment
-enterprise
-entertain
-entertainment
-monopoly
-monotonous
-mood
-transmission
-transmit
-transplant
-transport
-stock
-store
-storage
-stride
-strike
-striking
-string
-structure
-stun
-primary
-prime
-primitive
-principal
-principle
-psychiatry
-psychology
-liability
-liable
-liberal
-liberate
-license
-licence
-innocent
-innovation
-anguish
-annoy
-annual
-anchor
-confine
-confirm
+comprehension /ˌkɒmprɪˈhenʃn/ // the ability to understand something; the act of understanding → Her comprehension of complex theories is remarkable. 
+
+comprehensive /ˌkɒmprɪˈhensɪv/ // covering all aspects of a subject; thorough → The report provides a comprehensive analysis of the economic situation. 
+
+condemn /kənˈdem/ // express complete disapproval of; sentence to punishment → The public condemned the violent attack strongly.
+
+condense /kənˈdens/ // make something denser or more concentrated; shorten by removing unnecessary parts → She condensed the 500-page book into a 100-page summary. 
+
+condition /kənˈdɪʃn/ // (n.) the state of something; a requirement; (v.) train or influence → The old building is in poor condition. / Success is conditional on hard work. / They conditioned the dog to respond to commands. 
+
+conduct /kənˈdʌkt/ (v.) / ˈkɒndʌkt/ (n.) // (v.) carry out; behave; (n.) behavior; the way of managing → She conducted the experiment carefully. / His conduct at the meeting was unprofessional. 
+
+conductor /kənˈdʌktə(r)/ // a person who directs an orchestra; a material that carries electricity/heat → The conductor led the orchestra to a perfect performance. / Copper is a good conductor of electricity. 
+
+disable /dɪsˈeɪbl/ // make unable to function properly; impair → The accident disabled him for life. 
+
+disappear /ˌdɪsəˈpɪə(r)/ // cease to be visible; no longer exist → The sun disappeared behind the clouds. 
+
+disappoint /ˌdɪsəˈpɔɪnt/ // fail to fulfill the hopes or expectations of → The result disappointed all the team members. 
+
+discipline /ˈdɪsəplɪn/ // (n.) the practice of training people to obey rules; self-control; (v.) punish or train → Military life requires strict discipline. / Parents should discipline their children wisely. 
+
+disclose /dɪsˈkləʊz/ // make known something that was previously secret → The company refused to disclose its financial details. 
+
+discover /dɪsˈkʌvə(r)/ // find something for the first time; become aware of → Columbus discovered America in 1492. 
+
+discovery /dɪsˈkʌvəri/ // the act of discovering something; something that is discovered → The discovery of penicillin saved millions of lives. 
+
+hoist /hɔɪst/ // (v.) lift or raise something heavy; (n.) a device for lifting heavy things → Workers hoisted the steel beam to the top of the building. 
+
+hold /həʊld/ // (v.) grasp; keep; host; (n.) a grasp; a position → She held his hand tightly. / The hotel holds 200 guests. / He has a firm hold on the rope. 
+
+holder /ˈhəʊldə(r)/ // a person who owns or holds something; a device for holding something → She is the holder of a driving license. / This pen holder is made of wood. 
+
+household /ˈhaʊshəʊld/ // (n.) a group of people living together; (adj.) relating to a house → The household consists of three generations. / Household chores take up her morning. 
+
+however /haʊˈevə(r)/ // in whatever way; nevertheless → However hard he tries, he can't finish it on time. 
+
+huddle /ˈhʌdl/ // (v.) gather closely together; (n.) a small group gathered closely → The children huddled around the fireplace to keep warm. 
+
+narrative /ˈnærətɪv/ // (n.) a story or account of events; (adj.) relating to narration → Her novel has a compelling narrative. / The film uses a narrative structure. 
+
+narrow /ˈnærəʊ/ // (adj.) of small width; limited; (v.) make or become narrower → The road is too narrow for two cars. / She narrowed her eyes at the bright light. 
+
+nasty /ˈnɑːsti/ // unpleasant; unkind; dangerous → He got a nasty cut on his leg. / She said some nasty things about him. 
+
+nation /ˈneɪʃn/ // a large group of people sharing a common culture, history, or language → The nation celebrated its independence day. 
+
+national /ˈnæʃnəl/ // (adj.) relating to a nation; (n.) a citizen of a particular nation → This is a matter of national importance. / She is a British national. 
+
+nationality /ˌnæʃəˈnæləti/ // the status of belonging to a particular nation → What is your nationality? 
+
+native /ˈneɪtɪv/ // (adj.) belonging to a place of birth; (n.) a person born in a particular place → She speaks her native language fluently. / He is a native of Beijing.
+
+natural /ˈnætʃrəl/ // existing in nature; normal → It is natural for children to be curious. / She has a natural talent for music. 
+
+nature /ˈneɪtʃə(r)/ // the physical world; the basic character of something → We should protect nature. / Her nature is kind and gentle. 
+
+overall /ˌəʊvərˈɔːl/ (adj./adv.) / ˈəʊvərɔːl/ (n.) // (adj.) including everything; (adv.) in general; (n.) a type of work clothing → The overall cost is higher than expected. / Overall, the plan is feasible. 
+
+overcome /ˌəʊvəˈkʌm/ // succeed in dealing with a problem or difficulty → She overcame her fear of flying. 
+
+overlap /ˌəʊvəˈlæp/ (v.) / ˈəʊvəlæp/ (n.) // (v.) cover part of the same area; (n.) a part that overlaps → The two courses overlap in content. / There is an overlap between the two teams' responsibilities. 
+
+portion /ˈpɔːʃn/ // a part of something larger; an amount served to someone → She gave each child a small portion of cake. 
+
+possibility /ˌpɒsəˈbɪləti/ // the state or fact of being possible; a thing that may happen → There is a possibility of rain tomorrow. 
+
+possible /ˈpɒsəbl/ // able to be done or achieved; likely to happen → Is it possible to finish the work today? 
+
+potential /pəˈtenʃl/ (adj./n.) // (adj.) having the ability to develop into something; (n.) hidden ability or qualities → She has great potential as an artist. / The project has huge potential benefits. 
+
+pour /pɔː(r)/ // flow rapidly; serve a liquid by pouring → Rain poured down from the sky. / She poured a cup of tea for him.
+
+console /kənˈsəʊl/ (v.) / ˈkɒnsəʊl/ (n.) // (v.) comfort someone in distress; (n.) a panel with controls → She tried to console him after his loss. / The game console is very popular among teenagers. 
+
+consist /kənˈsɪst/ // be composed or made up of → The team consists of five members. 
+
+consistent /kənˈsɪstənt/ // not contradictory; remaining the same over time → His behavior is consistent with his words. 
+
+constant /ˈkɒnstənt/ // (adj.) continuing without interruption; unchanging; (n.) a quantity that does not vary → She suffered from constant pain in her back. / Speed of light is a constant. 
+
+constituent /kənˈstɪtjuənt/ // (n.) a member of a constituency; a component part; (adj.) forming a necessary part → The politician met with his constituents. / Salt is a constituent of seawater.
+
+constitute /ˈkɒnstɪtjuːt/ // be part of or form something; establish legally → These rules constitute a new policy.
+
+constitution /ˌkɒnstɪˈtjuːʃn/ // the system of laws governing a country; the physical makeup of a person → The country's constitution was revised last year. / She has a strong constitution. 
+
+constrain /kənˈstreɪn/ // limit or restrict; force to do something → Financial problems constrained their travel plans. 
+
+construct /kənˈstrʌkt/ (v.) / ˈkɒnstrʌkt/ (n.) // (v.) build or make; (n.) something built or made → They are constructing a new bridge. / The building is a modern construct. 
+
+distinct /dɪˈstɪŋkt/ // clearly different; easily perceived → There is a distinct difference between the two styles. 
+
+distinction /dɪˈstɪŋkʃn/ // a difference between two things; excellence that sets someone apart → She earned a distinction in her degree. / There is a clear distinction between right and wrong. 
+
+distinguish /dɪˈstɪŋɡwɪʃ/ // recognize or point out a difference; be a distinctive feature → It's hard to distinguish between the two twins. 
+
+fruitful /ˈfruːtfl/ // producing good results; fertile → The meeting was fruitful and led to new agreements.
+
+frustrate /frʌˈstreɪt/ // cause feelings of disappointment or annoyance; prevent from succeeding → Delays frustrated all his plans. 
+
+fulfil /fʊlˈfɪl/ (BrE) / fulfill /fʊlˈfɪl/ (AmE) // achieve or realize a goal; satisfy a requirement → She fulfilled her dream of becoming a doctor. 
+
+function /ˈfʌŋkʃn/ // (n.) a purpose or role; (v.) work or operate → The function of a heart is to pump blood. / The machine functions well after repair. 
+
+fund /fʌnd/ // (n.) money saved or allocated for a purpose; (v.) provide money for → The project needs more funds. / The government funded the research. 
+
+fundamental /ˌfʌndəˈmentl/ // (adj.) forming the base; essential; (n.) a basic principle → This is a fundamental change in policy. / He explained the fundamentals of physics. 
+
+evidence /ˈevɪdəns/ // facts or information proving something → There is no evidence to support his claim. 
+
+evident /ˈevɪdənt/ // clearly seen or understood; obvious → It is evident that she is lying. 
+
+evil /ˈiːvl/ // (adj.) morally wrong or bad; (n.) something that is morally wrong → He is an evil man. / Love conquers evil. 
+
+environment /ɪnˈvaɪrənmənt/ // the surroundings in which a person, animal, or plant lives → We should protect the natural environment.
+
+enterprise /ˈentəpraɪz/ // a business project; a company; initiative → He started a new enterprise last year. 
+
+entertain /ˌentəˈteɪn/ // amuse or interest; consider an idea → The magician entertained the children. / She entertained the thought of changing jobs. 
+
+entertainment /ˌentəˈteɪnmənt/ // the action of entertaining; something that amuses → The hotel offers various forms of entertainment. 
+
+monopoly /məˈnɒpəli/ // the exclusive possession or control of something → The company has a monopoly on oil production. 
+
+monotonous /məˈnɒtənəs/ // lacking variety; tedious → The work is monotonous and boring. 
+
+mood /muːd/ // a temporary state of feeling; the atmosphere of a place → She is in a good mood today. / The film has a dark mood.
+
+transmission /trænsˈmɪʃn/ // the act of sending or passing something; a system for transmitting power → The transmission of information is fast nowadays. 
+
+transmit /trænsˈmɪt/ // send or pass something from one place to another; communicate → The radio transmits signals to all areas. 
+
+transplant /trænsˈplɑːnt/ (v.) / ˈtrænsplɑːnt/ (n.) // (v.) move an organ or plant to another place; (n.) an operation to move an organ → Doctors transplanted a kidney into the patient. / The transplant was successful. 
+
+transport /trænsˈpɔːt/ (v.) / ˈtrænspɔːt/ (n.) // (v.) carry people or goods from one place to another; (n.) a system for carrying people/goods → The goods are transported by truck. / Public transport is convenient here. 
+
+stock /stɒk/ // (n.) goods kept for sale; shares in a company; (v.) keep a supply of → The shop has a large stock of books. / They stock fresh vegetables every day.
+
+store /stɔː(r)/ // (n.) a shop; a place for storing things; (v.) keep something for future use → She bought a dress from the clothing store. / We store food in the fridge. 
+
+storage /ˈstɔːrɪdʒ/ // the action of storing something; a place for storing things → The storage of data is important. / We need more storage space for our luggage. 
+
+stride /straɪd/ // (v.) walk with long steps; (n.) a long step; progress → He strode across the room. / She made great strides in her career. 
+
+strike /straɪk/ // (v.) hit; attack; stop work as a protest; (n.) a work stoppage → The lightning struck the tree. / Workers went on strike for better pay. 
+
+striking /ˈstraɪkɪŋ/ // attracting attention by being unusual or impressive → She has a striking appearance.
+
+string /strɪŋ/ // (n.) a thin cord; (v.) tie or fasten with string → He tied the package with string. / The guitar has six strings. 
+
+structure /ˈstrʌktʃə(r)/ // (n.) a building or framework; the arrangement of parts; (v.) organize something → The structure of the building is stable. / They structured the meeting carefully. 
+
+stun /stʌn/ // shock or surprise someone greatly; knock unconscious → The news stunned everyone.
+
+primary /ˈpraɪməri/ // (adj.) first in importance; relating to the first stage of education → Her primary concern is her family. / She studies in a primary school. 
+
+prime /praɪm/ // (adj.) of the best quality; most important; (n.) the most active period of life → This is a prime example of his work. / She is in her prime. 
+
+primitive /ˈprɪmətɪv/ // (adj.) relating to an early stage of development; simple → They lived in primitive conditions. 
+
+principal /ˈprɪnsəpl/ // (adj.) most important; (n.) the head of a school; a sum of money → The principal reason for the delay is bad weather. / She is the principal of our school. 
+
+principle /ˈprɪnsəpl/ // a fundamental truth or belief → He never compromises his principles. 
+
+psychiatry /saɪˈkaɪətri/ // the branch of medicine dealing with mental disorders → He works in the field of psychiatry. 
+
+psychology /saɪˈkɒlədʒi/ // the scientific study of the mind and behavior → She majors in psychology at university. 
+
+liability /ˌlaɪəˈbɪləti/ // the state of being legally responsible for something; a disadvantage → The company has a liability of $1 million. / His lack of experience is a liability. 
+
+liable /ˈlaɪəbl/ // legally responsible for something; likely to do something → He is liable for the damage he caused. / She is liable to get angry easily. 
+
+liberal /ˈlɪbərəl/ // (adj.) open to new ideas; generous; (n.) a supporter of liberal ideas → She has liberal views on education. / He is a liberal in politics. 
+
+liberate /ˈlɪbəreɪt/ // set free from imprisonment, slavery, or oppression → The army liberated the city from the enemy. 
+
+license /ˈlaɪsns/ (AmE, n./v.) / licence /ˈlaɪsns/ (BrE, n.) / ˈlaɪsns/ (BrE, v.) // (n.) official permission to do something; (v.) grant permission → He has a driving license. / The government licensed the new drug. 
+
+innocent /ˈɪnəsnt/ // not guilty of a crime; naive → He proved himself innocent of the charge. / She is innocent of any wrongdoing. 
+
+innovation /ˌɪnəˈveɪʃn/ // the introduction of new things, ideas, or methods → The company is known for its technological innovation. 
+
+anguish /ˈæŋɡwɪʃ/ // severe mental or physical pain → She cried out in anguish after the loss. 
+
+annoy /əˈnɔɪ/ // make someone a little angry or irritated → The noise annoyed me a lot. 
+
+annual /ˈænjuəl/ // happening once a year; relating to a year → The company holds an annual meeting. 
+
+anchor /ˈæŋkə(r)/ // (n.) a heavy object to keep a boat in place; (v.) fix firmly in place → The ship dropped anchor in the harbor. / She anchored the TV program for 10 years. 
+
+confine /kənˈfaɪn/ // keep someone or something within limits; imprison → He was confined to bed by illness. 
+
+confirm /kənˈfɜːm/ // establish the truth or correctness of; give approval to → The results confirm our theory. / She confirmed her attendance at the party. 
+
 conflict
 confidence
 confident
