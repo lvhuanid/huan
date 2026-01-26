@@ -394,109 +394,204 @@ confine /kənˈfaɪn/ // keep someone or something within limits; imprison → H
 
 confirm /kənˈfɜːm/ // establish the truth or correctness of; give approval to → The results confirm our theory. / She confirmed her attendance at the party. 
 
-conflict
-confidence
-confident
-confidential
-configuration
-trail
-train
-training
-trait
-view
-viewpoint
-violence
-violent
-virtual
-virtue
-apparent
-appeal
-appear
-appearance
-appliance
-applicable
-application
-appoint
-appointment
-apply
-appreciate
-discriminate
-discuss
-disease
-escape
-especially
-essay
-essence
-essential
-establish
-estimate
-ethic
-ethnic
-evaluate
-industrial
-industrialize
-industrialise
-industry
-inevitable
-miserable
-misery
-mislead
-mix
-mixture
-necessary
-necessitate
-necessity
-negative
-negotiate
-outer
-outlet
-outline
-outlook
-output
-poverty
-power
-practical
-practice
-practise
-practitioner
-preach
-precede
-precaution
-precedent
-preceding
-precious
-precise
-precision
-stress
-stretch
-holy
-honor
-honour
-honorable
-honourable
-horizon
-horizontal
-ingenious
-ingredient
-initial
-initiate
-initiative
-local
-locality
-locate
-location
-neglect
-negligible
-prescribe
-prescription
-presence
-present
-presently
-preserve
-preside
-press
-pressure
-prestige
+conflict /ˈkɒnflɪkt/ (n.) / kənˈflɪkt/ (v.) // (n.) a serious disagreement; a struggle; (v.) be incompatible with → The two countries resolved their border conflict peacefully. / His personal values conflict with his work demands. 
+
+confidence /ˈkɒnfɪdəns/ // the feeling of self-assurance arising from one’s appreciation of one’s own abilities; trust → She spoke with great confidence in the meeting. 
+
+confident /ˈkɒnfɪdənt/ // feeling or showing confidence in oneself or others → He is confident of passing the exam with good grades. 
+
+confidential /ˌkɒnfɪˈdenʃl/ // intended to be kept secret; private → The document contains confidential information about the project. 
+
+configuration /kənˌfɪɡəˈreɪʃn/ // an arrangement of parts or elements in a particular form, figure, or combination → The computer’s hardware configuration meets the software requirements. 
+
+trail /treɪl/ // (n.) a path through a wild area; a series of marks left by someone/something; (v.) follow a trail; lag behind → We walked along a narrow trail in the forest. / The dog trailed its owner home. 
+
+train /treɪn/ // (n.) a connected series of railway carriages; (v.) teach or prepare someone for a particular job or skill → She took the morning train to the city. / The company trains new employees for a month. 
+
+training /ˈtreɪnɪŋ/ // the action of teaching or preparing someone for a particular job or activity → He received professional training in engineering. 
+
+trait /treɪt/ // a distinguishing quality or characteristic belonging to a person or thing → Honesty is one of her most notable traits. 
+
+view /vjuː/ // (n.) an opinion or belief; a sight or prospect; (v.) regard in a particular way; look at → She holds a different view on environmental protection. / We viewed the sunset from the hilltop. 
+
+viewpoint /ˈvjuːpɔɪnt/ // a person’s particular way of thinking about something; an opinion → From a parent’s viewpoint, safety is the top priority. 
+
+violence /ˈvaɪələns/ // behavior involving physical force intended to hurt, damage, or kill someone or something → The film contains scenes of extreme violence. 
+
+violent /ˈvaɪələnt/ // using or involving physical force intended to hurt, damage, or kill; intense → A violent storm hit the coast last night. 
+
+virtual /ˈvɜːtʃuəl/ // almost or nearly as described, but not completely; existing in cyberspace → She attended a virtual meeting from home. 
+
+virtue /ˈvɜːtʃuː/ // behavior showing high moral standards; a good quality of a person or thing → Patience is a great virtue. 
+
+apparent /əˈpærənt/ // clearly visible or understood; seeming to be true but not necessarily so → It was apparent that he was lying about his whereabouts. 
+
+appeal /əˈpiːl/ // (v.) make a serious request; be attractive; (n.) a serious request; attractiveness → She appealed to the public for donations. / The old town has a unique appeal to tourists. 
+
+appear /əˈpɪə(r)/ // come into sight; seem; present oneself publicly → The sun appeared from behind the clouds. / He appears to be very tired today. 
+
+appearance /əˈpɪərəns/ // the way that someone or something looks; the act of appearing in public → Her appearance has changed a lot since last year. / The singer made a surprise appearance at the concert. 
+
+appliance /əˈplaɪəns/ // a device or machine designed for a particular household use → We bought a new kitchen appliance to save time on cooking. 
+
+applicable /əˈplɪkəbl/ // relevant or appropriate to a particular situation → This rule is only applicable to full-time employees. 
+
+application /ˌæplɪˈkeɪʃn/ // the action of putting something into operation; a formal request; a computer program → The application of new technology improved efficiency. / She submitted an application for the job. 
+
+appoint /əˈpɔɪnt/ // assign a job or role to someone; decide on a time or place for something → The company appointed her as the new manager. / They appointed a meeting for next Monday. 
+
+appointment /əˈpɔɪntmənt/ // a formal arrangement to meet someone; the act of appointing someone → I have a doctor’s appointment this afternoon. / His appointment as director was announced yesterday. 
+
+apply /əˈplaɪ/ // make a formal request; put into use; be relevant → She applied for a scholarship to study abroad. / We should apply what we learn to practice. 
+
+appreciate /əˈpriːʃieɪt/ // recognize the full worth of; be grateful for; understand fully → I appreciate your help in finishing the task. / She appreciates the beauty of classical music. 
+
+discriminate /dɪˈskrɪmɪneɪt/ // recognize a difference between things; treat someone unfairly based on race, gender, etc. → It’s hard to discriminate between the two similar products. / We must not discriminate against people with disabilities. 
+
+discuss /dɪˈskʌs/ // talk about something with someone in order to reach a decision or exchange ideas → We discussed the plan thoroughly before implementation. 
+
+disease /dɪˈziːz/ // a disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms → The disease spread quickly in the crowded area. 
+
+escape /ɪˈskeɪp/ // (v.) get away from a place or situation; avoid something; (n.) an act of escaping → He escaped from the prison last night. / The movie is an escape from reality. 
+
+especially /ɪˈspeʃəli/ // particularly; to a greater extent than usual → She loves all fruits, especially strawberries. 
+
+essay /ˈeseɪ/ // a short piece of writing on a particular subject, usually written by a student → He wrote an essay about environmental protection for his exam. 
+
+essence /ˈesns/ // the intrinsic nature or indispensable quality of something, especially something abstract, that determines its character → The essence of his argument is to protect the environment. 
+
+essential /ɪˈsenʃl/ // (adj.) absolutely necessary; extremely important; (n.) a fundamental ingredient or characteristic → Water is essential for life. / The essentials of the plan are clear. 
+
+establish /ɪˈstæblɪʃ/ // set up on a firm or permanent basis; show to be true or valid → The company was established in 1990. / He established his innocence with solid evidence. 
+
+estimate /ˈestɪmət/ (n.) / ˈestɪmeɪt/ (v.) // (n.) a rough calculation of the value, number, quantity, or extent of something; (v.) make an estimate of → The estimate for the project cost is $100,000. / We estimate that the work will take two weeks. 
+
+ethic /ˈeθɪk/ // a set of moral principles that govern a person’s behavior or the conducting of an activity → The company has a strong work ethic. 
+
+ethnic /ˈeθnɪk/ // relating to a particular race or group of people who share a cultural heritage → The city is home to various ethnic communities.
+
+evaluate /ɪˈvæljueɪt/ // assess or judge the value, quality, or importance of something → Teachers evaluate students’ performance regularly. 
+
+industrial /ɪnˈdʌstriəl/ // relating to industry, especially manufacturing industry → The region has developed a strong industrial base. 
+
+industrialize /ɪnˈdʌstriəlaɪz/ (AmE) / industrialise /ɪnˈdʌstriəlaɪz/ (BrE) // develop industries in a country, region, or society on a wide scale → The country began to industrialize in the 19th century. 
+
+industry /ˈɪndəstri/ // economic activity concerned with the processing of raw materials and manufacture of goods in factories; a particular branch of economic activity → The car industry is developing rapidly. 
+
+inevitable /ɪnˈevɪtəbl/ // certain to happen; unavoidable → Changes in society are inevitable. 
+
+miserable /ˈmɪzrəbl/ // unhappy or uncomfortable; causing unhappiness → She felt miserable after failing the exam. 
+
+misery /ˈmɪzəri/ // great unhappiness or suffering → The war brought misery to thousands of people. 
+
+mislead /mɪsˈliːd/ // cause someone to have a wrong idea or impression → The false information misled the public. 
+
+mix /mɪks/ // (v.) combine different substances; associate with people; (n.) a combination of different things → She mixed flour and water to make dough. / The party was a mix of old and new friends.
+
+mixture /ˈmɪkstʃə(r)/ // a substance made by mixing other substances together; a combination of different things → The drink is a mixture of juice and water. 
+
+necessary /ˈnesəsəri/ // essential; needed to achieve a particular result → It is necessary to finish the work before the deadline. 
+
+necessitate /nəˈsesɪteɪt/ // make something necessary as a result or consequence → The emergency necessitated an immediate response. 
+
+necessity /nəˈsesəti/ // the state or fact of being required; something that is essential → Food and water are basic necessities of life. 
+
+negative /ˈneɡətɪv/ // (adj.) expressing denial or disagreement; harmful; (n.) a negative thing or quality; a photographic image → He gave a negative response to the proposal. / The test results showed a negative reaction. 
+
+negotiate /nɪˈɡəʊʃieɪt/ // discuss with others to reach an agreement; find a way around an obstacle → The two sides are negotiating a peace deal. 
+
+outer /ˈaʊtə/ // situated on the outside; further from the center → The outer layer of the skin protects the body.
+
+outlet /ˈaʊtlet/ // a way of expressing or releasing emotions or energy; a shop or organization that sells goods from a particular manufacturer → Writing is her outlet for stress. / This is an official outlet of the brand. 
+
+outline /ˈaʊtlaɪn/ // (n.) a general description or plan of something; (v.) give a general description or plan of → She made an outline before writing the essay. / The teacher outlined the key points of the lesson. 
+
+outlook /ˈaʊtlʊk/ // a person’s way of thinking about things; a view over a wide area; prospects for the future → She has a positive outlook on life. / The economic outlook for next year is promising. 
+
+output /ˈaʊtpʊt/ // (n.) the amount of something produced by a person, machine, or industry; (v.) produce or deliver something → The factory’s daily output has increased. / The computer outputs data in real time. 
+
+poverty /ˈpɒvəti/ // the state of being extremely poor → The government is working to reduce poverty in rural areas. 
+
+power /ˈpaʊə(r)/ // (n.) the ability to do something or act in a particular way; strength or energy; political control; (v.) supply with power → She has the power to make important decisions. / The wind turbine powers the village. 
+
+practical /ˈpræktɪkl/ // of or concerned with practice rather than theory; useful → He has a practical approach to solving problems. 
+
+practice /ˈpræktɪs/ (AmE, n./v.) / practise /ˈpræktɪs/ (BrE, v.) // (n.) the actual application of an idea or method; repeated exercise to improve a skill; (v.) perform an activity repeatedly to improve → The new practice has improved work efficiency. / She practices the piano every day. 
+
+practitioner /prækˈtɪʃənə(r)/ // a person actively engaged in a particular profession, especially medicine or law → He is a qualified medical practitioner. 
+
+preach /priːtʃ/ // deliver a religious sermon; advocate or promote a belief or course of action → The priest preaches every Sunday. / She preaches the importance of healthy eating. 
+
+precede /prɪˈsiːd/ // come before in time, order, or position → The main meeting was preceded by a short speech. 
+
+precaution /prɪˈkɔːʃn/ // a measure taken in advance to prevent something dangerous, unpleasant, or inconvenient from happening → We took precautions against fire by installing smoke alarms. 
+
+precedent /ˈpresɪdənt/ // an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances → The case set a legal precedent for future trials. 
+
+preceding /prɪˈsiːdɪŋ/ // coming before in time or order → The data in the preceding chapter supports this conclusion. 
+
+precious /ˈpreʃəs/ // of great value; not to be wasted or treated carelessly → She kept the precious necklace as a family heirloom. 
+
+precise /prɪˈsaɪs/ // exact, accurate, and careful about details → He gave a precise description of the accident. 
+
+precision /prɪˈsɪʒn/ // the quality of being precise; exactness → The job requires a high level of precision. 
+
+stress /stres/ // (n.) pressure or tension exerted on a material object; mental or emotional strain; (v.) emphasize; put stress on → She suffers from stress due to work. / The teacher stressed the importance of revision. 
+
+stretch /stretʃ/ // (v.) extend or spread out over a large area or distance; straighten one’s body or limbs; (n.) an area of land or water; an act of stretching → The road stretches for miles. / She did a stretch to relax her muscles. 
+
+holy /ˈhəʊli/ // dedicated or consecrated to God or a religious purpose; sacred → The temple is considered a holy place by believers. 
+
+honor /ˈɒnə(r)/ (AmE) / honour /ˈɒnə(r)/ (BrE) // (n.) high respect; a privilege; (v.) show respect for; fulfill a commitment → It’s an honor to meet you. / He honored his promise to help us. 
+
+honorable /ˈɒnərəbl/ (AmE) / honourable /ˈɒnərəbl/ (BrE) // bringing or deserving honor; honest and moral → He is an honorable man who always keeps his word. 
+
+horizon /həˈraɪzn/ // the line at which the earth’s surface and the sky appear to meet; the scope of a person’s interests or knowledge → The sun sank below the horizon. 
+
+horizontal /ˌhɒrɪˈzɒntl/ // parallel to the plane of the horizon; level → Draw a horizontal line across the page. 
+
+ingenious /ɪnˈdʒiːniəs/ // (of a person) clever, original, and inventive; (of a machine, idea, etc.) cleverly designed or planned → She came up with an ingenious solution to the problem. 
+
+ingredient /ɪnˈɡriːdiənt/ // a component part or element of something; a substance used in the preparation of food → Flour is a key ingredient in bread-making. 
+
+initial /ɪˈnɪʃl/ // (adj.) existing or occurring at the beginning; (n.) the first letter of a name; (v.) sign with one’s initials → The initial stage of the project is completed. / She wrote her initials on the document. 
+
+initiate /ɪˈnɪʃieɪt/ // begin or set in motion; introduce someone to a particular activity or group → The government initiated a new environmental policy. 
+
+initiative /ɪˈnɪʃətɪv/ // the ability to assess and initiate things independently; a new plan or action to achieve a particular aim → She has great initiative and always takes on new tasks. / The initiative aims to reduce carbon emissions. 
+
+local /ˈləʊkl/ // (adj.) relating to a particular area or neighborhood; (n.) a person who lives in a particular area → The local government organized a community event. / The locals are very friendly to tourists. 
+
+locality /ləʊˈkæləti/ // a particular place or area → The crime occurred in a rural locality. 
+
+locate /ləʊˈkeɪt/ // find the exact position of; place in a particular position → We used a map to locate the village. 
+
+location /ləʊˈkeɪʃn/ // a particular place or position; the place where a film or TV program is made → The hotel is in a convenient location. / The film was shot on location in Scotland. 
+
+neglect /nɪˈɡlekt/ // (v.) fail to care for or attend to properly; (n.) the state of being neglected → He neglected his health and fell ill. / The neglect of historical buildings is a serious problem. 
+
+negligible /ˈneɡlɪdʒəbl/ // so small or unimportant as to be not worth considering → The difference between the two results is negligible. 
+
+prescribe /prɪˈskraɪb/ // (of a doctor) advise and authorize the use of (a medicine or treatment); recommend (a course of action) → The doctor prescribed antibiotics for his infection. 
+
+prescription /prɪˈskrɪpʃn/ // a written instruction from a doctor that authorizes a patient to be issued with a medicine or treatment; the action of prescribing something → She took the prescription to the pharmacy. 
+
+presence /ˈprezns/ // the state or fact of existing, occurring, or being present; the area immediately around someone → Her presence made everyone feel at ease. 
+
+present /ˈpreznt/ (adj./n.) / prɪˈzent/ (v.) // (adj.) existing or occurring now; (n.) a gift; the current time; (v.) give something to someone; introduce someone; show or display → She is busy with present work. / He gave her a birthday present. / She presented the award to the winner. 
+
+presently /ˈprezntli/ // soon; at the present time → The meeting will begin presently. 
+
+preserve /prɪˈzɜːv/ // (v.) maintain something in its original or existing state; keep safe from harm or destruction; (n.) a food made by preserving fruit in sugar → We must preserve our cultural heritage. / She made apple preserve for the winter. 
+
+preside /prɪˈzaɪd/ // be in charge of a meeting, committee, or event → She presided over the annual general meeting. 
+
+press /pres/ // (v.) push firmly; squeeze; urge someone to do something; (n.) a machine for pressing something; newspapers, magazines, and journalists → He pressed the button to start the machine. / The press reported the event widely. 
+
+pressure /ˈpreʃə(r)/ // (n.) continuous physical force exerted on or against an object; mental stress; (v.) put pressure on someone to do something → The water pressure is too low. / They pressured him to make a decision. 
+
+prestige /preˈstiːʒ/ // widespread respect and admiration felt for someone or something on the basis of a perception of their achievements or quality → The university has a lot of prestige in the academic world. 
+
 presumably
 presume
 prevent
