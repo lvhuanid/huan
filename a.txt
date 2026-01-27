@@ -592,111 +592,212 @@ pressure /ˈpreʃə(r)/ // (n.) continuous physical force exerted on or against 
 
 prestige /preˈstiːʒ/ // widespread respect and admiration felt for someone or something on the basis of a perception of their achievements or quality → The university has a lot of prestige in the academic world. 
 
-presumably
-presume
-prevent
-previous
-prey
-reliable
-reliance
-religion
-religious
-rely
-straight
-straightforward
-strain
-strategy
-strength
-strengthen
-strenuous
-transaction
-transfer
-transform
-transient
-translation
-architect
-architecture
-archive
-area
-arena
-argue
-argument
-arise
-arouse
-array
-visible
-vision
-visual
-vital
-vivid
-void
-volume
-consequence
-consequently
-conservation
-conservative
-consider
-considerable
-considerate
-consume
-consumption
-dispute
-dissolve
-exchange
-exclude
-exclusive
-stick
-stimulate
-stir
-stipulate
-infer
-inference
-inferior
-influence
-influential
-inform
-information
-approach
-appropriate
-approval
-approve
-apt
-conform
-confront
-confuse
-confusion
-congress
-connect
-connection
-connexion
-conscious
-continual
-continue
-continuous
-dismiss
-disorder
-disperse
-displace
-display
-distribute
-distort
-distract
-evolution
-evolve
-exaggerate
-examine
-mock
-mode
-model
-moderate
-modern
-modernization
-modernisation
-modest
-modify
-predecessor
-predict
-preface
+presumably /prɪˈzjuːməbli/ // used to say that something is likely to be true, based on what you know → Presumably, the meeting will be postponed due to the director’s absence. 
+
+presume /prɪˈzjuːm/ // suppose that something is true without proof; act with excessive confidence → We must not presume his guilt before the trial ends. 
+
+prevent /prɪˈvent/ // keep something from happening or someone from doing something → Wearing a seatbelt can prevent serious injuries in accidents. 
+
+previous /ˈpriːviəs/ // existing or occurring before in time or order → She had no previous experience in managing a team. 
+
+prey /preɪ/ // (n.) an animal hunted and killed by another for food; a person who is vulnerable to harm; (v.) hunt and kill for food → The eagle circled above, looking for prey. / Owls prey on small rodents at night. 
+
+reliable /rɪˈlaɪəbl/ // consistently good in quality or performance; able to be trusted → He is a reliable colleague who always meets deadlines. 
+
+reliance /rɪˈlaɪəns/ // dependence on someone or something for support or help → The company’s reliance on imported materials increased costs. 
+
+religion /rɪˈlɪdʒən/ // the belief in and worship of a superhuman power or powers, especially a God or gods → Buddhism is one of the world’s major religions. 
+
+religious /rɪˈlɪdʒəs/ // relating to religion; having firm belief in a religion → She follows a strict religious routine every morning. 
+
+rely /rɪˈlaɪ/ // depend on someone or something for support, help, or information → We rely on technology to improve work efficiency. 
+
+straight /streɪt/ // (adj.) extending uniformly in one direction; not curved; honest; (adv.) directly; without deviation → She drew a straight line on the paper. / He went straight home after work. 
+
+straightforward /ˌstreɪtˈfɔːwəd/ // (adj.) uncomplicated and easy to understand; honest and direct; (adv.) in a straightforward way → The task is straightforward and can be finished in an hour. / She spoke straightforwardly about her concerns. 
+
+strain /streɪn/ // (n.) pressure or tension; an injury caused by overexertion; (v.) exert oneself to the utmost; cause strain → The long work hours put a strain on his health. / She strained her back lifting heavy boxes. 
+
+strategy /ˈstrætədʒi/ // a plan of action designed to achieve a long-term or overall aim → The company adopted a new marketing strategy to expand sales. 
+
+strength /streŋθ/ // the quality or state of being physically strong; the capacity of an object or substance to withstand force; a positive attribute → Her greatest strength is her ability to communicate. 
+
+strengthen /ˈstreŋθn/ // make or become stronger → Regular exercise strengthens the immune system. 
+
+strenuous /ˈstrenjuəs/ // requiring or using great exertion; intense → Hiking in the mountains is a strenuous activity.
+
+transaction /trænˈzækʃn/ // an instance of buying or selling something; a deal → The financial transaction was completed securely online. 
+
+transfer /trænsˈfɜː(r)/ (v.) / ˈtrænsfɜː(r)/ (n.) // (v.) move from one place to another; pass something to someone else; (n.) the act of transferring → She transferred to a new department last month. / The transfer of funds will take two working days. 
+
+transform /trænsˈfɔːm/ // change completely in form, appearance, or nature → The old factory was transformed into a modern art gallery. 
+
+transient /ˈtræniənt/ // (adj.) lasting only for a short time; temporary; (n.) a person who stays in a place for a short time → The city has a lot of transient workers during the construction season. 
+
+translation /trænsˈleɪʃn/ // the process of translating words or text from one language to another; a written or spoken rendering of something in another language → The translation of the novel won a literary award.
+
+architect /ˈɑːkɪtekt/ // a person who designs buildings and in many cases also supervises their construction → The famous architect designed the new opera house. 
+
+architecture /ˈɑːkɪtektʃə(r)/ // the art and technique of designing and building; the style in which a building is designed → The city is famous for its modern architecture. 
+
+archive /ˈɑːkaɪv/ (n./v.) // (n.) a collection of historical documents or records; a place where such documents are stored; (v.) store or deposit in an archive → The old letters are kept in the national archive. / We need to archive these files for future reference.
+
+area /ˈeəriə/ // a region or part of a town, country, or the world; a subject or field of activity → The flood affected a large area of the countryside. / She specializes in the area of environmental science.
+
+arena /əˈriːnə/ // a place where sports, entertainments, or other public events are held; a field of activity or conflict → The concert was held in a large outdoor arena. / She is a leading figure in the political arena. 
+
+argue /ˈɑːɡjuː/ // give reasons or cite evidence in support of an idea, action, or theory; have a disagreement → They argued about the best way to solve the problem. / He argued that the plan was impractical. 
+
+argument /ˈɑːɡjumənt/ // an exchange of diverging or opposite views; a reason or set of reasons given in support of an idea → Their argument lasted for hours without a conclusion. / She presented a strong argument for changing the policy. 
+
+arise /əˈraɪz/ // (arose, arisen) occur; happen; emerge from a source → A new problem arose during the project implementation. 
+
+arouse /əˈraʊz/ // awaken from sleep; cause to feel a strong emotion or reaction → The noise aroused me from a deep sleep. / His speech aroused great enthusiasm among the audience. 
+
+array /əˈreɪ/ // (n.) an impressive display or range of something; an ordered arrangement; (v.) arrange in an impressive or attractive way → The shop has a wonderful array of handmade crafts. / She arrayed the flowers on the table beautifully. 
+
+visible /ˈvɪzəbl/ // able to be seen; noticeable → The damage to the car is clearly visible. 
+
+vision /ˈvɪʒn/ // the faculty or state of being able to see; the ability to think about or plan the future with imagination or wisdom; a mental image → She has poor vision and needs glasses. / The leader has a clear vision for the company’s future. 
+
+visual /ˈvɪʒuəl/ // (adj.) relating to seeing or sight; (n.) a picture, film, or display used to illustrate or accompany something → The exhibition combines visual art with music. / The book includes many helpful visuals. 
+
+vital /ˈvaɪtl/ // absolutely necessary; essential to the existence, success, or operation of something → Regular exercise is vital for maintaining good health. 
+
+vivid /ˈvɪvɪd/ // producing clear, strong images in the mind; intense or bright → She gave a vivid description of her travel experiences. 
+
+void /vɔɪd/ // (adj.) empty; having no legal force or effect; (n.) an empty space; a feeling of emptiness; (v.) declare invalid → The contract was declared void due to fraud. / His death left a void in her life. 
+
+volume /ˈvɒljuːm/ // the amount of space that a substance or object occupies; the loudness of a sound; a book forming part of a series → The volume of water in the tank is decreasing. / Please turn down the volume of the radio. 
+
+consequence /ˈkɒnsɪkwəns/ // a result or effect of an action or condition → The consequences of climate change are becoming more obvious. 
+
+consequently /ˈkɒnsɪkwəntli/ // as a result; therefore → He missed the train and consequently was late for the meeting. 
+
+conservation /ˌkɒnsəˈveɪʃn/ // the action of preserving, protecting, or restoring something, especially the environment or natural resources → The conservation of wildlife is crucial for ecological balance. 
+
+conservative /kənˈsɜːvətɪv/ // (adj.) holding traditional values and cautious about change or innovation; (n.) a person who holds conservative views → She has a conservative approach to managing money. / He is a member of the Conservative Party. 
+
+consider /kənˈsɪdə(r)/ // think carefully about something before making a decision or forming an opinion; regard as → We need to consider all possible options before choosing. / She is considered one of the best doctors in the hospital. 
+
+considerable /kənˈsɪdərəbl/ // notably large in size, amount, or extent → The project required a considerable amount of time and money. 
+
+considerate /kənˈsɪdərət/ // careful not to inconvenience or harm others; thoughtful → He is a considerate neighbor who always helps others. 
+
+consume /kənˈsjuːm/ // eat, drink, or ingest (food or drink); use up (a resource); occupy (someone’s attention) → We consume more energy in winter than in summer. / The novel consumed her attention all weekend. 
+
+consumption /kənˈsʌmpʃn/ // the action of consuming something; the amount consumed → The country’s oil consumption has increased sharply. 
+
+dispute /dɪˈspjuːt/ (v.) / ˈdɪspjuːt/ (n.) // (v.) argue about something, especially in an official or formal way; question the truth or validity of; (n.) a disagreement, argument, or controversy → They disputed the ownership of the land. / The dispute between the two countries was resolved peacefully.
+
+dissolve /dɪˈzɒlv/ // (v.) mix with a liquid and become part of it; end or terminate (a partnership, marriage, or official body); disappear gradually → Sugar dissolves quickly in hot water. / The committee was dissolved after completing its task. 
+
+exchange /ɪksˈtʃeɪndʒ/ // (v.) give something and receive something of the same kind in return; swap; (n.) an act of exchanging; a place where securities or commodities are bought and sold → They exchanged gifts at Christmas. / The stock exchange closed early due to the crisis. 
+
+exclude /ɪkˈskluːd/ // keep out or away from a place, group, or privilege; leave out of consideration → The rules exclude children under 12 from the game. 
+
+exclusive /ɪkˈskluːsɪv/ // (adj.) restricted to a particular person or group; not shared with others; (n.) a story or article published or broadcast by only one newspaper, magazine, etc. → The hotel offers exclusive services to VIP guests. / The interview is an exclusive to this magazine. 
+
+stick /stɪk/ // (v.) (stuck, stuck) attach or fasten with glue or another adhesive; remain in a place or position; (n.) a thin piece of wood or other material → She stuck the photo on the wall. / He picked up a stick to play with the dog. 
+
+stimulate /ˈstɪmjuleɪt/ // encourage or arouse interest or enthusiasm in; increase levels of physiological or nervous activity in → The new policy aims to stimulate economic growth. 
+
+stir /stɜː(r)/ // (v.) move a spoon or other implement round in a liquid or mixture to mix it thoroughly; arouse strong feelings in; (n.) an act of stirring; a feeling of excitement → She stirred the soup gently. / The news caused a stir in the community. 
+
+stipulate /ˈstɪpjuleɪt/ // demand or specify (a requirement), typically as part of an agreement → The contract stipulates that the work must be completed by June. 
+
+infer /ɪnˈfɜː(r)/ // deduce or conclude (something) from evidence and reasoning rather than from explicit statements → We can infer from his silence that he disagrees. 
+
+inference /ˈɪnfərəns/ // a conclusion reached on the basis of evidence and reasoning → The inference from the data is that the policy is effective. 
+
+inferior /ɪnˈfɪəriə(r)/ // (adj.) lower in rank, status, or quality; (n.) a person lower in rank or status → The product is inferior to the one we used before. / She refused to be treated as an inferior. 
+
+influence /ˈɪnfluəns/ (n./v.) // (n.) the capacity to have an effect on the character, development, or behavior of someone or something; (v.) have an influence on → Her parents have a great influence on her decisions. / The weather influenced our travel plans. 
+
+influential /ˌɪnfluˈenʃl/ // having great influence on someone or something → He is an influential figure in the field of science. 
+
+inform /ɪnˈfɔːm/ // give (someone) facts or information; officially notify → She informed us of the changes to the schedule. 
+
+information /ˌɪnfəˈmeɪʃn/ // facts or knowledge provided or learned → The website provides useful information about local attractions. 
+
+approach /əˈprəʊtʃ/ // (v.) come near or nearer to (someone or something) in distance or time; tackle (a problem or task); (n.) a way of dealing with a situation or problem; the act of approaching → We approached the city as night fell. / His approach to teaching is very innovative. 
+
+appropriate /əˈprəʊpriət/ (adj.) / əˈprəʊprieɪt/ (v.) // (adj.) suitable or proper in the circumstances; (v.) take (something) for one’s own use, typically without the owner’s permission → She wore appropriate clothes for the formal event. / The company appropriated funds for the new project. 
+
+approval /əˈpruːvl/ // the belief that someone or something is good or acceptable; official permission → The plan was submitted for the manager’s approval.
+
+approve /əˈpruːv/ // officially agree to or accept as satisfactory; believe that someone or something is good or suitable → The committee approved the new budget. / I don’t approve of his rude behavior. 
+
+apt /æpt/ // appropriate or suitable in the circumstances; having a tendency to do something → Her comment was apt and made everyone laugh. / He is apt to forget important dates. 
+
+conform /kənˈfɔːm/ // comply with rules, standards, or laws; behave according to socially acceptable conventions → All products must conform to safety standards. 
+
+confront /kənˈfrʌnt/ // face up to and deal with (a problem or difficult situation); come face to face with (someone) with hostile or argumentative intent → She had to confront her fear of flying. / The teacher confronted the student about his cheating. 
+
+confuse /kənˈfjuːz/ // make (someone) bewildered or perplexed; mix up (someone or something) with another thing or person → The complex instructions confused most participants.
+
+confusion /kənˈfjuːʒn/ // uncertainty about what is happening, intended, or required; the state of being mixed up → There was confusion among the crowd after the accident. 
+
+congress /ˈkɒŋɡres/ // a national legislative body, especially that of the US; a formal meeting or conference → The bill was passed by Congress. / The international congress on climate change will be held next year. 
+
+connect /kəˈnekt/ // join together or link; establish a relationship between → The two cities are connected by a high-speed train. / She connected with old friends at the reunion.
+
+connection /kəˈnekʃn/ (AmE/BrE) / connexion /kəˈnekʃn/ (BrE) // a relationship in which a person or thing is linked or associated with something else; the act of connecting → She has a connection with the company’s CEO. / The connection between the two events is unclear. 
+
+conscious /ˈkɒnʃəs/ // aware of and responding to one’s surroundings; having knowledge of something; deliberate → He was conscious of his mistake but refused to apologize. 
+
+continual /kənˈtɪnjuəl/ // forming a sequence with no interruption; happening frequently with short intervals between → The continual noise from the construction site disturbed us. 
+
+continue /kənˈtɪnjuː/ // persist in an activity or process; remain in a particular state or condition → She decided to continue her studies abroad. 
+
+continuous /kənˈtɪnjuəs/ // forming an unbroken whole; without interruption → The continuous rain caused flooding in many areas. 
+
+dismiss /dɪsˈmɪs/ // order or allow (someone) to leave; reject or disregard (an idea, claim, or feeling) → The teacher dismissed the class early. / He dismissed the rumors as untrue. 
+
+disorder /dɪsˈɔːdə(r)/ // (n.) a state of untidiness or lack of organization; a disruption of normal physical or mental functions; (v.) disrupt the normal arrangement or functioning of → The room was in complete disorder. / The protest disordered traffic in the city center. 
+
+disperse /dɪˈspɜːs/ // distribute or spread over a wide area; cause to leave a gathering or place → The wind dispersed the clouds. / Police dispersed the crowd peacefully.
+
+displace /dɪsˈpleɪs/ // take over the place, position, or role of; force (someone) to leave their home or usual place of residence → New technology has displaced many traditional jobs. / The flood displaced thousands of people. 
+
+display /dɪˈspleɪ/ // (v.) put (something) in a prominent place so that it is easily seen; show (a quality or emotion); (n.) an arrangement of objects in a public place for people to look at; a demonstration of a quality or emotion → The museum displays ancient artifacts. / The window display attracted many customers. 
+
+distribute /dɪˈstrɪbjuːt/ // give shares of (something) to each of a number of recipients; spread over an area → The teacher distributed textbooks to the students. / The seeds are distributed by the wind. 
+
+distort /dɪˈstɔːt/ // twist or pull out of shape; give a misleading or false account of (something) → The mirror distorted her reflection. / The media distorted the facts of the event. 
+
+distract /dɪˈstrækt/ // prevent (someone) from concentrating on something → The noise outside distracted her from her work. 
+
+evolution /ˌiːvəˈluːʃn/ // the process by which different kinds of living organisms are believed to have developed from earlier forms during the history of the earth; the gradual development of something → The theory of evolution was proposed by Darwin. 
+
+evolve /iˈvɒlv/ // develop gradually; undergo evolution → The company has evolved into a global brand over the years. 
+
+exaggerate /ɪɡˈzædʒəreɪt/ // represent (something) as being larger, greater, better, or worse than it actually is → He tends to exaggerate his achievements. 
+
+examine /ɪɡˈzæmɪn/ // inspect (someone or something) thoroughly in order to determine their nature or condition; test (someone’s knowledge or ability) → The doctor examined the patient carefully. / Students will be examined on their knowledge of the subject. 
+
+mock /mɒk/ // (v.) tease or laugh at in a scornful or contemptuous manner; (adj.) not genuine or real; simulated → They mocked his accent and made him feel uncomfortable. / The army held a mock battle exercise. 
+
+mode /məʊd/ // a way or manner in which something occurs or is experienced, expressed, or done; a fashion or style → She prefers to work in silent mode. / This dress is in the latest mode. 
+
+model /ˈmɒdl/ // (n.) a three-dimensional representation of a person or thing; a person employed to display clothes or other merchandise; a system or theory to explain a phenomenon; (v.) create a model of; display clothes or merchandise → The architect showed us a model of the new building. / She modeled the new fashion collection. 
+
+moderate /ˈmɒdərət/ (adj./n.) / ˈmɒdəreɪt/ (v.) // (adj.) average in amount, intensity, or degree; not extreme; (n.) a person who holds moderate views; (v.) make or become less extreme, intense, or violent → He has a moderate attitude towards politics. / She moderated the debate between the two candidates. 
+
+modern /ˈmɒdn/ // relating to the present or recent times as opposed to the remote past; characterized by or using the most up-to-date techniques, ideas, or equipment → The house is decorated in modern style. 
+
+modernization /ˌmɒdənaɪˈzeɪʃn/ (AmE) / modernisation /ˌmɒdənaɪˈzeɪʃn/ (BrE) // the process of adapting something to modern needs or habits → The modernization of the old factory improved production efficiency. 
+
+modest /ˈmɒdɪst/ // unassuming in the estimation of one’s abilities or achievements; moderate in amount, size, or degree → She is a modest person who never boasts about her success. 
+
+modify /ˈmɒdɪfaɪ/ // make partial or minor changes to (something) in order to improve it or make it suitable for a particular purpose → The design was modified to meet customer requirements.
+
+predecessor /ˈpriːdɪsesə(r)/ // a person who held a job or office before the current holder; something that has been followed or replaced by another → Her predecessor left a lot of unfinished work. 
+
+predict /prɪˈdɪkt/ // say or estimate that (a specified thing) will happen in the future or will be a consequence of something → The weather forecast predicts rain tomorrow. 
+
+preface /ˈprefəs/ (n./v.) // (n.) an introduction to a book, typically stating its subject, scope, or aims; (v.) introduce (a book or speech) with a preface → The author wrote a preface explaining her inspiration for the novel. / She prefaced her speech with a thank-you to the audience. 
+
 preferable
 preference
 prejudice
