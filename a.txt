@@ -798,106 +798,204 @@ predict /prɪˈdɪkt/ // say or estimate that (a specified thing) will happen in
 
 preface /ˈprefəs/ (n./v.) // (n.) an introduction to a book, typically stating its subject, scope, or aims; (v.) introduce (a book or speech) with a preface → The author wrote a preface explaining her inspiration for the novel. / She prefaced her speech with a thank-you to the audience. 
 
-preferable
-preference
-prejudice
-preliminary
-premier
-premise
-premium
-preparation
-reflect
-reflection
-reflexion
-reform
-reject
-rejoice
-relate
-relation
-relationship
-relative
-relativity
-relevant
-overlook
-overseas
-pose
-position
-positive
-possess
-possession
-dilute
-dim
-diminish
-amateur
-amaze
-ambiguous
-ambition
-ambitious
-bubble
-budget
-build
-business
-compress
-comprise
-compromise
-conceive
-concentrate
-concept
-conception
-concern
-concise
-concrete
-conclude
-conclusion
-concurrent
-confer
-conference
-confess
-epic
-epidemic
-episode
-epoch
-indifferent
-indignant
-indignation
-indispensable
-individual
-mess
-message
-messenger
-method
-militant
-military
-mind
-redeem
-reduce
-reduction
-refer
-reference
-subject
-subjective
-spoil
-sponsor
-spread
-spur
-spy
-stability
-stable
-staff
-stage
-radiate
-radiant
-radical
-object
-objective
-objection
-obligation
-oblige
-obscure
-observation
-observe
-obsession
-obsolete
+preferable /ˈprefrəbl/ // more desirable or suitable; better → It is preferable to finish the work today rather than leave it for tomorrow. 
+
+preference /ˈprefrəns/ // a greater liking for one alternative over another or others → She has a preference for tea over coffee. 
+
+prejudice /ˈpredʒədɪs/ // (n.) preconceived opinion that is not based on reason or actual experience; unfair dislike or distrust; (v.) give rise to prejudice in someone against something → His prejudice against new technology prevented him from learning it. / The media coverage prejudiced the public against the defendant.
+
+preliminary /prɪˈlɪmɪnəri/ // (adj.) preceding or done in preparation for something fuller or more important; (n.) an action or event that prepares for something more important → We held a preliminary meeting to discuss the plan. / The preliminary results of the test are encouraging. 
+
+premier /ˈpremiə(r)/ // (adj.) first in importance; leading; (n.) the head of a government in some countries → This is the premier university in the country. / The premier announced a new policy to boost the economy. 
+
+premise /ˈpremɪs/ // (n.) a previous statement or proposition from which another is inferred or follows as a conclusion; a basic assumption; (v.) base an argument, theory, or undertaking on → His argument is based on the premise that all people are equal. / The project is premised on sufficient funding. 
+
+premium /ˈpriːmiəm/ // (n.) an amount paid for the use of something; an extra payment; (adj.) of superior quality or value → He pays a monthly premium for his insurance. / This brand offers premium products at a higher price. 
+
+preparation /ˌprepəˈreɪʃn/ // the action or process of making ready or being made ready for use or consideration → The preparation for the exam took her three months. 
+
+reflect /rɪˈflekt/ // (v.) throw back (heat, light, or sound) without absorbing it; think deeply or carefully about something; show or be a sign of → The lake reflected the beautiful sunset. / She reflected on her past mistakes. 
+
+reflection /rɪˈflekʃn/ (AmE/BrE) / reflexion /rɪˈflekʃn/ (BrE) // (n.) the throwing back of light, heat, or sound by a surface; an image seen in a mirror or shiny surface; deep thought → She looked at her reflection in the mirror. / His decision was a reflection of his values. 
+
+reform /rɪˈfɔːm/ (v.) / rɪˈfɔːm/ (n.) // (v.) make changes in something (especially an institution or practice) in order to improve it; (n.) the action or process of reforming an institution or practice → The government decided to reform the education system. / The reform brought great changes to the area. 
+
+reject /rɪˈdʒekt/ (v.) / ˈriːdʒekt/ (n.) // (v.) refuse to accept, consider, or use; (n.) a person or thing that is rejected → She rejected his offer of help politely. / The factory sorted out the rejects before shipping the products. 
+
+rejoice /rɪˈdʒɔɪs/ // feel or show great joy or delight → The whole nation rejoiced at the news of victory. 
+
+relate /rɪˈleɪt/ // (v.) make or show a connection between two or more things; tell a story; feel sympathy or understanding for someone → Can you relate this incident to the previous one? / She related her travel experiences to us. 
+
+relation /rɪˈleɪʃn/ // (n.) the way in which two or more people or things are connected; a member of one’s family → The relation between the two countries has improved. / He invited all his close relations to the wedding. 
+
+relationship /rɪˈleɪʃnʃɪp/ // (n.) the way in which two or more people or things are connected; a close connection between two people, especially involving romantic or sexual feelings → She has a good relationship with her colleagues. / Their relationship lasted for five years. 
+
+relative /ˈrelətɪv/ // (adj.) considered in relation or proportion to something else; comparative; (n.) a member of one’s family → The cost is low relative to other products. / Her relatives came to visit her during the holiday.
+
+relativity /ˌreləˈtɪvəti/ // (n.) the quality or state of being relative; the theory of space, time, and gravity developed by Einstein → Einstein’s theory of relativity changed the way we understand the universe. 
+
+relevant /ˈreləvənt/ // closely connected or appropriate to the matter in hand → Please provide relevant information about the incident. 
+
+overlook /ˌəʊvəˈlʊk/ // (v.) fail to notice or consider something; have a view of from above; forgive a mistake → He overlooked a key detail in the report. / The hotel room overlooks the sea. 
+
+overseas /ˌəʊvəˈsiːz/ // (adj./adv.) in or to a foreign country, especially one across the sea → The company has many overseas branches. / He went overseas to study. 
+
+pose /pəʊz/ // (v.) sit or stand in a particular position for a photograph or painting; present (a problem, danger, etc.); (n.) a particular way of sitting or standing → She posed for a photo in front of the monument. / The new policy poses a challenge to small businesses. 
+
+position /pəˈzɪʃn/ // (n.) a place where someone or something is located; a job; an opinion or attitude; (v.) put in a particular place or attitude → Please move to a more comfortable position. / He applied for a position in the marketing department.
+
+positive /ˈpɒzətɪv/ // (adj.) consisting of or characterized by the presence rather than the absence of something; optimistic; (n.) a positive quality or attribute; a positive result in a test → She has a positive attitude towards life. / The test gave a positive result for the virus. 
+
+possess /pəˈzes/ // (v.) have or own something; have a particular quality or ability → He possesses great wealth but lives simply. / She possesses excellent communication skills.
+
+possession /pəˈzeʃn/ // (n.) the state of having, owning, or controlling something; something owned or possessed → The necklace was her most precious possession. / He was arrested for possession of illegal drugs. 
+
+dilute /daɪˈluːt/ // (v.) make (a liquid) thinner or weaker by adding water or another solvent; reduce the strength or effectiveness of something; (adj.) (of a liquid) thin or weak → She diluted the juice with water. / The dilute solution is safe to use. 
+
+dim /dɪm/ // (adj.) not bright or clearly visible; not clearly remembered; (v.) make or become less bright → The room was dimly lit by a single candle. / His memory of the event dimmed over time. 
+
+diminish /dɪˈmɪnɪʃ/ // (v.) make or become less in size, amount, or importance → The rain did not diminish their enthusiasm for the trip. / His influence in the company has diminished recently. 
+
+amateur /ˈæmətə(r)/ // (n.) a person who engages in a pursuit, especially a sport, on an unpaid basis; a beginner; (adj.) done by amateurs; not professional → He is an amateur photographer who takes amazing photos. / The play was an amateur production but very impressive. 
+
+amaze /əˈmeɪz/ // (v.) surprise (someone) greatly; fill with astonishment → Her talent for music amazed everyone around her. 
+
+ambiguous /æmˈbɪɡjuəs/ // (adj.) open to more than one interpretation; not having a clear meaning → The sentence is ambiguous and can be understood in two ways. 
+
+ambition /æmˈbɪʃn/ // (n.) a strong desire to achieve something, typically requiring determination and hard work → His ambition is to become a famous scientist. 
+
+ambitious /æmˈbɪʃəs/ // (adj.) having or showing a strong desire and determination to succeed → She is an ambitious student who wants to get into a top university. 
+
+bubble /ˈbʌbl/ // (n.) a thin sphere of liquid enclosing air or another gas; a feeling of excitement or optimism; (v.) form or produce bubbles → Soap bubbles floated in the air. / Water bubbled in the pot. 
+
+budget /ˈbʌdʒɪt/ // (n.) an estimate of income and expenditure for a set period of time; (v.) plan or provide for (something) in a budget; (adj.) inexpensive → The government announced a new budget for education. / We need to budget our monthly expenses carefully. 
+
+build /bɪld/ // (v.) (built, built) construct (something) by putting parts or materials together; develop or establish (something) over time; (n.) the physical structure of a person’s body → They are building a new hospital in the neighborhood. / He has a strong, athletic build. 
+
+business /ˈbɪznəs/ // (n.) a person’s regular occupation, profession, or trade; a commercial organization; matters of personal concern → He runs a successful business in the city. / Mind your own business. 
+
+compress /kəmˈpres/ // (v.) press or squeeze (something) firmly so that it becomes smaller in size or volume; reduce the length or complexity of (something) → She compressed the clothes into the suitcase. / The report was compressed into a few pages. 
+
+comprise /kəmˈpraɪz/ // (v.) consist of; be made up of; include → The team comprises five experienced players. 
+
+compromise /ˈkɒmprəmaɪz/ (n./v.) // (n.) a settlement of a dispute reached by each side making concessions; (v.) reach a compromise; expose to risk or danger → They reached a compromise after long negotiations. / We should not compromise on safety. 
+
+conceive /kənˈsiːv/ // (v.) form or devise (a plan or idea) in the mind; become pregnant with (a child) → She conceived the idea of starting her own company. / They conceived their first child last year. 
+
+concentrate /ˈkɒnsntreɪt/ // (v.) focus all one’s attention on a particular object or activity; focus (something) on a particular area or group → She concentrated on her studies and ignored the noise. / The company concentrated its efforts on improving product quality. 
+
+concept /ˈkɒnsept/ // (n.) an idea or mental image of something → The concept of time is difficult to explain to young children. 
+
+conception /kənˈsepʃn/ // (n.) the forming or devising of a plan or idea; the action of conceiving a child; the way in which something is perceived or understood → The conception of the project took six months. / Her conception of happiness is simple. 
+
+concern /kənˈsɜːn/ (v./n.) // (v.) relate to; be about; cause worry or anxiety to; (n.) worry or anxiety; a matter that affects or is important to someone → The book concerns the history of ancient China. / Her safety is a great concern to us. 
+
+concise /kənˈsaɪs/ // (adj.) giving a lot of information clearly and in a few words; brief but comprehensive → Please give a concise summary of the report. 
+
+concrete /ˈkɒŋkriːt/ // (adj.) specific; definite; made of concrete; (n.) a building material made from a mixture of cement, sand, gravel, and water → We need concrete evidence to support the claim. / The walls are built of concrete. 
+
+conclude /kənˈkluːd/ // (v.) bring or come to an end; reach a decision or judgment by reasoning → The meeting concluded with a vote. / We concluded that he was innocent. 
+
+conclusion /kənˈkluːʒn/ // (n.) the end or finish of an event, process, or text; a judgment or decision reached by reasoning → The conclusion of the story was unexpected. / We drew different conclusions from the same data. 
+
+concurrent /kənˈkʌrənt/ // (adj.) existing, happening, or done at the same time → The two events are concurrent, so I can’t attend both. 
+
+confer /kənˈfɜː(r)/ // (v.) grant or bestow (a title, degree, benefit, or right); discuss something with someone in order to reach a decision → The university conferred an honorary degree on him. / They conferred with each other before making a decision. 
+
+conference /ˈkɒnfərəns/ // (n.) a formal meeting for discussion or consultation; an association of sports teams that compete against each other → The international conference on climate change will be held next month. 
+
+confess /kənˈfes/ // (v.) admit or acknowledge (a wrongdoing or something embarrassing) truthfully; admit one’s faith in (a religion) → He confessed his mistake and apologized. / She confessed to being nervous about the exam. 
+
+epic /ˈepɪk/ // (adj.) of, relating to, or characteristic of an epic or epics; grand in scale or character; (n.) a long poem, typically one derived from ancient oral tradition → The film tells an epic story of love and war. / Homer’s Iliad is a famous epic.
+
+epidemic /ˌepɪˈdemɪk/ // (n.) a widespread occurrence of an infectious disease in a community at a particular time; a widespread occurrence of a particular undesirable phenomenon; (adj.) relating to or denoting an epidemic → The city suffered an epidemic of flu last winter. / There is an epidemic of obesity among young people. 
+
+episode /ˈepɪsəʊd/ // (n.) an event or a group of events occurring as part of a larger sequence; a single installment of a television or radio program → That was a memorable episode in his life. / I missed the latest episode of my favorite TV show. 
+
+epoch /ˈiːpɒk/ // (n.) a period of time in history or a person’s life, typically one marked by notable events or particular characteristics → The invention of the internet marked a new epoch in human history. 
+
+indifferent /ɪnˈdɪfrənt/ // (adj.) having no particular interest or concern; neutral in feeling or effect → She was indifferent to his opinions. / The result was indifferent to our plans. 
+
+indignant /ɪnˈdɪɡnənt/ // (adj.) feeling or showing anger or annoyance at what is perceived as unfair treatment → She was indignant at the false accusations. 
+
+indignation /ˌɪndɪɡˈneɪʃn/ // (n.) anger or annoyance provoked by what is perceived as unfair treatment → The news caused widespread indignation among the public. 
+
+indispensable /ˌɪndɪˈspensəbl/ // (adj.) absolutely necessary; essential → Water is indispensable for all living things. 
+
+individual /ˌɪndɪˈvɪdʒuəl/ // (adj.) single; separate; relating to one person or thing; (n.) a single human being as distinct from a group → Each individual has different needs. / She is a very talented individual. 
+
+mess /mes/ // (n.) a dirty or untidy state of things or a place; a difficult or confused situation; (v.) make a mess of something; eat in a messy way → The room was in a terrible mess. / He messed up the project by making a silly mistake. 
+
+message /ˈmesɪdʒ/ // (n.) a verbal, written, or recorded communication sent to or left for a recipient who cannot be contacted directly; a moral or implied meaning; (v.) send a message to someone → She left a message for him to call back. / The message of the story is to be kind to others. 
+
+messenger /ˈmesɪndʒə(r)/ // (n.) a person who carries a message or is employed to carry messages → The messenger delivered the package to my office. 
+
+method /ˈmeθəd/ // (n.) a particular procedure for accomplishing or approaching something, especially the execution or performance of an artistic work or a scientific procedure → He has a unique method of teaching. 
+
+militant /ˈmɪlɪtənt/ // (adj.) favoring confrontational or violent methods in support of a political or social cause; (n.) a militant person → The group has a militant approach to achieving its goals. 
+
+military /ˈmɪlətri/ // (adj.) relating to or characteristic of soldiers or armed forces; (n.) the armed forces of a country → He has a military background. / The country’s military is well-equipped. 
+
+mind /maɪnd/ // (n.) the element of a person that enables them to be aware of the world and their experiences, to think, and to feel; (v.) be annoyed or bothered by something; take care of someone or something → She has a sharp mind and learns quickly. / Do you mind if I open the window? 
+
+redeem /rɪˈdiːm/ // (v.) compensate for the faults or bad aspects of; regain possession of (something) in exchange for payment; convert (points, coupons, etc.) into cash or goods → Her kindness redeemed her earlier rudeness. / He redeemed his watch from the pawnshop. 
+
+reduce /rɪˈdjuːs/ // (v.) make smaller or less in amount, degree, or size; bring someone or something to a lower or weaker state → We need to reduce our carbon emissions. / The illness reduced him to a shadow of his former self. 
+
+reduction /rɪˈdʌkʃn/ // (n.) the action or fact of making something smaller or less in amount, degree, or size → There has been a reduction in crime rates in the area. 
+
+refer /rɪˈfɜː(r)/ // (v.) mention or allude to; direct someone to a different place or person for information or help; relate to → He referred to his notes during the speech. / The doctor referred her to a specialist. 
+
+reference /ˈrefrəns/ // (n.) the action of mentioning or alluding to something; a source of information or help; a letter of recommendation; (v.) mention or allude to something → The book contains many references to historical events. / She referenced her previous research in the paper. 
+
+subject /ˈsʌbdʒɪkt/ (n./adj.) / səbˈdʒekt/ (v.) // (n.) a person or thing that is being discussed, described, or dealt with; a branch of knowledge studied in a school, college, etc.; (adj.) likely to be affected by something; (v.) cause or force someone or something to undergo (something) → Math is my favorite subject at school. / He is subject to frequent headaches. / The plan is subject to approval. 
+
+subjective /səbˈdʒektɪv/ // (adj.) based on or influenced by personal feelings, tastes, or opinions → Beauty is subjective; what one person finds beautiful, another may not. 
+
+spoil /spɔɪl/ // (v.) (spoiled/spoilt, spoiled/spoilt) damage or harm the quality or value of something; indulge a child excessively; (n.) the remains of something that has been spoiled → The rain spoiled our picnic. / She spoils her children with too many gifts. 
+
+sponsor /ˈspɒnsə(r)/ // (n.) a person or organization that provides funds for a project or activity carried out by another, in return for advertising or other benefits; (v.) provide funds for (a project or activity) → The company is the main sponsor of the sports event. / They sponsored a new scholarship for poor students. 
+
+spread /spred/ // (v.) (spread, spread) extend over a large or increasing area; distribute or disperse something over an area; (n.) the act or process of spreading; a range or extent → The fire spread quickly through the forest. / She put a spread of cheese and fruit on the table. 
+
+spur /spɜː(r)/ // (n.) a thing that encourages someone or something to do or achieve something; a sharp device on the heel of a rider’s boot; (v.) encourage or stimulate someone or something → The award was a spur to her further efforts. / The crisis spurred the government to take action. 
+
+spy /spaɪ/ // (n.) a person employed by a government or other organization to secretly obtain information on an enemy or competitor; (v.) (spied, spied) work as a spy; secretly observe someone or something → He was arrested for being a spy. / She spied on her neighbors through the window. 
+
+stability /stəˈbɪləti/ // (n.) the state of being stable; not likely to change or fail; steadiness of character or purpose → The country needs political stability to develop its economy. 
+
+stable /ˈsteɪbl/ // (adj.) not likely to change or fail; steady in position or condition; (n.) a building where horses are kept → The economy is becoming more stable. / He keeps his horses in a nearby stable. 
+
+staff /stɑːf/ // (n.) the people employed in an organization or engaged in an organized undertaking such as military service; (v.) provide (an organization or place) with staff → The hotel staff are very friendly. / The company is staffing a new branch in the north. 
+
+stage /steɪdʒ/ // (n.) a point, period, or step in a process or development; a raised platform on which plays, speeches, or other performances are given; (v.) organize and carry out (an event) → The project is in its final stage. / They staged a concert to raise money for charity. 
+
+radiate /ˈreɪdieɪt/ // (v.) emit (energy, especially light or heat) in the form of rays or waves; spread out from a central point; show a strong feeling or quality → The sun radiates light and heat. / She radiated confidence when she spoke. 
+
+radiant /ˈreɪdiənt/ // (adj.) emitting light or heat; glowing with happiness, health, or beauty → She looked radiant on her wedding day. 
+
+radical /ˈrædɪkl/ // (adj.) thorough and far-reaching in effect or meaning; favoring extreme changes in existing views, habits, or institutions; (n.) a person who advocates extreme changes in government or society → The government introduced a radical new policy to reform the tax system. / He is a radical who wants to change the political system. 
+
+object /ˈɒbdʒɪkt/ (n.) / əbˈdʒekt/ (v.) // (n.) a material thing that can be seen and touched; a goal or purpose; (v.) say something to express one’s opposition to or disagreement with something → She picked up a small object from the floor. / He objected to the plan on the grounds of cost. 
+
+objective /əbˈdʒektɪv/ // (adj.) not influenced by personal feelings or opinions; based on facts; (n.) a goal or aim → We need to take an objective view of the situation. / His main objective is to finish the project on time. 
+
+objection /əbˈdʒekʃn/ // (n.) an expression or feeling of opposition or dislike → She raised an objection to his proposal. 
+
+obligation /ˌɒblɪˈɡeɪʃn/ // (n.) an act or course of action to which a person is morally or legally bound; a duty or commitment → We have an obligation to help those in need. 
+
+oblige /əˈblaɪdʒ/ // (v.) make (someone) legally or morally bound to do something; do a favor or service for someone → The law obliges companies to protect their employees. / Please oblige me by closing the door. 
+
+obscure /əbˈskjʊə(r)/ // (adj.) not discovered or known about; uncertain; (v.) make unclear or difficult to understand → The origin of the custom is obscure. / The fog obscured our view of the mountains. 
+
+observation /ˌɒbzəˈveɪʃn/ // (n.) the action or process of observing something or someone carefully or in order to gain information; a remark based on something one has seen, heard, or noticed → His observations on the environment were very insightful. 
+
+observe /əbˈzɜːv/ // (v.) watch (someone or something) carefully and attentively; notice or perceive (something); comply with (a law, rule, or custom) → She observed the birds in the garden for hours. / We must observe the traffic rules.
+
+obsession /əbˈseʃn/ // (n.) an unhealthy and compulsive preoccupation with something or someone → His obsession with money ruined his relationships. 
+
+obsolete /ˈɒbsəliːt/ // (adj.) no longer produced or used; out of date → The old computer system is now obsolete. 
+
 obtain
 obvious
 ideal
