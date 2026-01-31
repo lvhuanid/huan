@@ -996,108 +996,206 @@ obsession /əbˈseʃn/ // (n.) an unhealthy and compulsive preoccupation with so
 
 obsolete /ˈɒbsəliːt/ // (adj.) no longer produced or used; out of date → The old computer system is now obsolete. 
 
-obtain
-obvious
-ideal
-ideology
-identical
-identification
-identify
-identity
-journal
-journalist
-journey
-judge
-judgment
-judgement
-judicial
-jury
-jurisdiction
-justice
-justify
-label
-lag
-largely
-lateral
-latter
-law
-lawsuit
-magnitude
-magnify
-magnificent
-maintain
-maintenance
-major
-majority
-make
-theme
-theory
-theoretical
-therapy
-qualification
-qualify
-quality
-qualitative
-safeguard
-safety
-savage
-save
-saving
-scale
-scene
-scenery
-pace
-panel
-panorama
-prove
-provide
-provided
-tow
-toward
-towards
-take
-talent
-target
-taste
-technical
-technician
-technique
-technology
-tech
-teenager
-temper
-temperature
-temporal
-temporary
-tempt
-temptation
-tend
-tendency
-tentative
-term
-terminal
-terminate
-testify
-trace
-track
-tradition
-ultimate
-underestimate
-undergo
-underlie
-underlying
-underline
-understand
-understanding
-undertake
-uneasy
-unemployment
-unexpected
-unify
-union
-unique
-universal
-universe
+obtain /əbˈteɪn/ // (v.) get, acquire, or secure something → He obtained a scholarship to study abroad after years of hard work. 
+
+obvious /ˈɒbviəs/ // (adj.) easily perceived or understood; clear, evident → It is obvious that she is nervous from her trembling hands. 
+
+ideal /aɪˈdiːəl/ // (adj.) satisfying one’s conception of what is perfect; most suitable; (n.) a standard of perfection or excellence → This is an ideal place for a quiet vacation. / His ideal of happiness is a simple life with family. 
+
+ideology /ˌaɪdiˈɒlədʒi/ // (n.) a system of ideas and ideals, especially one which forms the basis of economic or political theory and policy → Different countries have different political ideologies. 
+
+identical /aɪˈdentɪkl/ // (adj.) exactly the same, especially in appearance or form → The two twins are identical in looks but different in personality. 
+
+identification /aɪˌdentɪfɪˈkeɪʃn/ // (n.) the action or process of identifying someone or something; an official document proving who someone is → The identification of the suspect took three days. / You need to show your ID card for identification. 
+
+identify /aɪˈdentɪfaɪ/ // (v.) recognize or point out who or what someone or something is; associate oneself with a group or idea → She identified the criminal from the police photos. / Many young people identify with the singer’s music. 
+
+identity /aɪˈdentəti/ // (n.) the fact of being who or what a person or thing is; a sense of self → He struggled with his cultural identity after moving to a new country. 
+
+journal /ˈdʒɜːnl/ // (n.) a daily record of events or experiences; a periodical publication dealing with a particular subject → She keeps a journal to write down her thoughts every night. / This is a leading academic journal in biology. 
+
+journalist /ˈdʒɜːnəlɪst/ // (n.) a person who writes for newspapers, magazines, or news websites or prepares news to be broadcast → The journalist interviewed the famous writer about her new book. 
+
+journey /ˈdʒɜːni/ // (n.) a long trip, especially one involving travel by land, sea, or air; (v.) travel on a long journey → Their journey across the desert took two weeks. / They journeyed to the remote village to help the poor. 
+
+judge /dʒʌdʒ/ // (v.) form an opinion or conclusion about something or someone; preside over and hear a case in a court of law; (n.) a public official with authority to hear and decide cases in a court of law; a person who decides the winner of a competition → We should not judge others by their appearance. / The judge sentenced him to five years in prison. 
+
+judgment /ˈdʒʌdʒmənt/ (AmE) / judgement /ˈdʒʌdʒmənt/ (BrE) // (n.) the ability to make considered decisions or come to sensible conclusions; a decision or opinion formed after consideration → His judgment of the situation was accurate. / The court’s judgment was in favor of the plaintiff. 
+
+judicial /dʒuˈdɪʃl/ // (adj.) relating to the administration of justice or the judiciary → The country has an independent judicial system.
+
+jury /ˈdʒʊəri/ // (n.) a body of people sworn to give a verdict on a case submitted to them in a court of law → The jury found the defendant not guilty. 
+
+jurisdiction /ˌdʒʊərɪsˈdɪkʃn/ // (n.) the official power to make legal decisions and judgments; the extent of authority or control → The local police have jurisdiction over this area. 
+
+justice /ˈdʒʌstɪs/ // (n.) fairness in the way people are treated; the quality of being fair and reasonable; the administration of the law → Everyone deserves justice, regardless of their background. / She works in the department of justice. 
+
+justify /ˈdʒʌstɪfaɪ/ // (v.) show or prove to be right or reasonable → He tried to justify his mistake by explaining the situation. 
+
+label /ˈleɪbl/ // (n.) a small piece of paper, cloth, or plastic attached to something to identify it or give information about it; a category or name used to describe someone or something; (v.) attach a label to; describe or classify someone or something → The label on the bottle says “keep away from children”. / Don’t label him as a troublemaker without evidence. 
+
+lag /læg/ // (v.) move or develop slowly; fall behind; (n.) a delay between two related actions → The project is lagging behind schedule due to lack of funds. / There is a slight lag between the sound and the image on the screen. 
+
+largely /ˈlɑːdʒli/ // (adv.) to a great extent; mostly → The success of the project is largely due to everyone’s efforts. 
+
+lateral /ˈlætərəl/ // (adj.) relating to the side; situated on or extending from the side → The company offers lateral movement opportunities for employees to switch departments. 
+
+latter /ˈlætə(r)/ // (adj./n.) denoting the second or second mentioned of two people or things → She has two sons: the former is a doctor, and the latter is a teacher.
+
+law /lɔː/ // (n.) the system of rules which a particular country or community recognizes as regulating the actions of its members and which it may enforce by the imposition of penalties; a rule defining correct procedure or behavior in a sport, game, etc. → Everyone must obey the law. / The referee enforced the laws of the game strictly. 
+
+lawsuit /ˈlɔːsuːt/ // (n.) a claim or dispute brought to a court of law for adjudication → The company filed a lawsuit against its competitor for patent infringement. 
+
+magnitude /ˈmæɡnɪtjuːd/ // (n.) the great size or extent of something; the brightness of a star as a measure of its luminosity → The magnitude of the disaster shocked the whole world. 
+
+magnify /ˈmæɡnɪfaɪ/ // (v.) make (something) appear larger than it is, especially with a lens; exaggerate the importance or seriousness of something → The microscope magnifies the cells by 1000 times. / He tends to magnify small problems. 
+
+magnificent /mæɡˈnɪfɪsnt/ // (adj.) extremely beautiful, elaborate, or impressive → The palace is a magnificent building with beautiful decorations.
+
+maintain /meɪnˈteɪn/ // (v.) cause or enable (a condition or situation) to continue; keep (something) in good condition; assert something as true → She maintains a healthy lifestyle by exercising regularly. / He maintained that he was innocent. 
+
+maintenance /ˈmeɪntənəns/ // (n.) the process of maintaining or preserving someone or something; the state of being maintained → The machine requires regular maintenance to work properly. 
+
+major /ˈmeɪdʒə(r)/ // (adj.) important, serious, or significant; (n.) a subject or field of study chosen as a specialty by a college or university student; a rank in the army or air force above captain; (v.) specialize in a particular subject at college or university → There is a major problem with the computer system. / She is a history major at Harvard University. 
+
+majority /məˈdʒɒrəti/ // (n.) the greater number or part of something; more than half → The majority of students support the new school policy. 
+
+make /meɪk/ // (v.) (made, made) form (something) by putting parts together or combining substances; cause (something) to exist or happen; do or perform (an action); (n.) the brand or type of something; the act of making something → She made a cake for his birthday. / What make of car do you drive? 
+
+theme /θiːm/ // (n.) the subject of a talk, piece of writing, exhibition, etc.; a topic; a recurring idea or motif in an artistic work → The theme of the conference is “sustainable development”. / Love and friendship are common themes in his novels. 
+
+theory /ˈθɪəri/ // (n.) a supposition or a system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained; abstract knowledge or speculation → Darwin’s theory of evolution is widely accepted. / In theory, this plan should work, but in practice, it may have problems. 
+
+theoretical /ˌθɪəˈretɪkl/ // (adj.) based on or concerned with theory rather than experience or practice → This is a theoretical approach to solving the problem; we need to test it in practice. 
+
+therapy /ˈθerəpi/ // (n.) the treatment of mental or physical illness without the use of drugs or surgery; a course of treatment → She received cognitive behavioral therapy to overcome her anxiety. 
+
+qualification /ˌkwɒlɪfɪˈkeɪʃn/ // (n.) an official record showing that someone has skills, knowledge, or ability in a particular subject or activity; a condition that must be satisfied before something is allowed or done → She has a qualification in nursing. / One of the qualifications for the job is fluency in English. 
+
+qualify /ˈkwɒlɪfaɪ/ // (v.) have or gain the necessary skills, knowledge, or ability to do something; make (someone) eligible for something; modify or restrict the meaning of a word or phrase → He qualified as a doctor last year. / Her experience qualifies her for the position.
+
+quality /ˈkwɒləti/ // (n.) the standard of something as measured against other things of a similar kind; a distinctive attribute or characteristic possessed by someone or something; (adj.) of good quality; high-quality → The company is known for the quality of its products. / She has a quality of kindness that everyone admires. 
+
+qualitative /ˈkwɒlɪtətɪv/ // (adj.) relating to the quality or qualities of something rather than its quantity → We need to do a qualitative analysis of the data to understand people’s opinions.
+
+safeguard /ˈseɪfɡɑːd/ // (v.) protect or defend something from harm or danger; (n.) a measure taken to protect someone or something from harm or danger → The law safeguards the rights of children. / Regular checks are a safeguard against accidents. 
+
+safety /ˈseɪfti/ // (n.) the condition of being protected from or unlikely to cause danger, risk, or injury → The company puts the safety of its employees first. 
+
+savage /ˈsævɪdʒ/ // (adj.) fierce, violent, and uncontrolled; (n.) a member of a primitive or uncivilized people; (v.) attack ferociously and maul → The savage storm destroyed many houses. / The lion savaged the hunter. 
+
+save /seɪv/ // (v.) keep safe or rescue someone or something from harm or danger; store up something, especially money, for future use; avoid wasting something → He saved the child from drowning. / She saves a portion of her salary every month. 
+
+saving /ˈseɪvɪŋ/ // (n.) an amount of money saved regularly; a reduction in cost; (prep.) except; other than → Her savings are enough to buy a small house. / Saving for retirement is important. / Everyone attended the meeting, saving him. 
+
+scale /skeɪl/ // (n.) a range of levels or amounts; a device for weighing people or things; the relative size or extent of something; (v.) climb up or over something; adjust the size or proportion of something → The problem is on a large scale. / He scaled the wall to get into the house. 
+
+scene /siːn/ // (n.) the place where an incident in real life or fiction occurs or occurred; a view or prospect; a part of a play, film, or book in which the action stays in one place for a continuous period → The police arrived at the scene of the accident. / The film’s final scene is very moving. 
+
+scenery /ˈsiːnəri/ // (n.) the natural features of a landscape considered in terms of their appearance, especially when picturesque → The scenery in the mountains is breathtaking. 
+
+pace /peɪs/ // (n.) the speed at which someone or something moves or operates; a single step taken when walking or running; (v.) walk at a steady speed, especially back and forth → He walked at a slow pace to enjoy the scenery. / She paced up and down the room, waiting for the result. 
+
+panel /ˈpænl/ // (n.) a flat board or surface on which instruments, controls, or other devices are fixed; a group of people chosen to give advice, make a decision, or discuss a topic on a public occasion; (v.) cover with panels → The control panel of the machine is easy to operate. / A panel of experts will judge the competition.
+
+panorama /ˌpænəˈrɑːmə/ // (n.) an unbroken view of an entire surrounding area; a complete survey or presentation of a subject → From the top of the hill, we had a magnificent panorama of the city. 
+
+prove /pruːv/ // (v.) (proved, proved/proven) demonstrate the truth or existence of something by evidence or argument; turn out to be → He proved his innocence with solid evidence. / The plan proved to be successful. 
+
+provide /prəˈvaɪd/ // (v.) make available for use; supply; give → The company provides free training for new employees. / She provided us with a lot of help. 
+
+provided /prəˈvaɪdɪd/ // (conj.) on the condition that; if → You can go out to play provided that you finish your homework first. 
+
+tow /təʊ/ // (v.) pull (a car, boat, etc.) along with a rope or chain; (n.) an act of towing something → The broken car was towed to the garage. / We had to call a tow for our vehicle. 
+
+toward /təˈwɔːd/ (AmE) / towards /təˈwɔːdz/ (BrE/AmE) // (prep.) in the direction of; approaching or coming closer to (a time or event); with regard to; in relation to → She walked toward the park. / We are getting closer toward the deadline. / He has a positive attitude toward life. 
+
+take /teɪk/ // (v.) (took, taken) lay hold of (something) with one’s hands; grasp; remove or move something from a place; accept or receive something; perform an action; require or need something → She took the book from the shelf. / The job will take a lot of time. 
+
+talent /ˈtælənt/ // (n.) natural aptitude or skill; a person with natural aptitude or skill → She has a talent for music and can play many instruments. / The company hired a lot of young talents. 
+
+target /ˈtɑːɡɪt/ // (n.) an object aimed at in shooting or bombing; a goal or objective; (v.) aim at or direct something at a particular target → The company’s sales target this year is $1 million. / The advertisement is targeted at young people. 
+
+taste /teɪst/ // (n.) the sensation of flavor perceived in the mouth and throat on contact with a substance; a person’s liking for particular flavors; a sense of what is fashionable or aesthetically pleasing; (v.) perceive the flavor of something; have a particular flavor; have a liking for something → The cake has a sweet taste. / She has good taste in clothes.
+
+technical /ˈteknɪkl/ // (adj.) relating to a particular subject, art, or craft, or its techniques; involving or concerned with applied and industrial sciences → He has a lot of technical knowledge about computers. / The project requires technical support from experts.
+
+technician /tekˈnɪʃn/ // (n.) a person trained in the practical application of a science or technology → The computer technician fixed the problem quickly. 
+
+technique /tekˈniːk/ // (n.) a way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure → She has a unique technique for painting. 
+
+technology /tekˈnɒlədʒi/ // (n.) the application of scientific knowledge for practical purposes, especially in industry; machinery and equipment developed from scientific knowledge → Modern technology has changed our lives greatly. 
+
+tech /tek/ // (n.) (informal) technology; a company that specializes in technology → He works in a tech company in Silicon Valley. / She is interested in new tech products. 
+
+teenager /ˈtiːneɪdʒə(r)/ // (n.) a person aged between 13 and 19 years old → Teenagers often have their own ideas about fashion and music. 
+
+temper /ˈtempə(r)/ // (n.) a person’s state of mind seen in terms of their being angry or calm; (v.) moderate or restrain something; become angry → He has a bad temper and gets angry easily. / She tried to temper her excitement. 
+
+temperature /ˈtemprətʃə(r)/ // (n.) the degree or intensity of heat present in a substance or object, especially as expressed according to a comparative scale and shown by a thermometer; a body temperature above the normal → The temperature today is 25 degrees Celsius. / She has a high temperature and needs to rest.
+
+temporal /ˈtempərəl/ // (adj.) relating to time; relating to the temples of the head → The book discusses the temporal changes in climate. 
+
+temporary /ˈtemprəri/ // (adj.) lasting for only a limited period of time; not permanent → She took a temporary job while she was looking for a permanent one. 
+
+tempt /tempt/ // (v.) entice or try to entice someone to do something that they find attractive but know to be wrong or unwise → The delicious food tempted her to eat more. 
+
+temptation /tempˈteɪʃn/ // (n.) the desire to do something, especially something wrong or unwise → He resisted the temptation to buy the expensive watch. 
+
+tend /tend/ // (v.) regularly or frequently behave in a particular way or have a particular characteristic; look after or care for someone or something → She tends to be late for meetings. / He tends the garden every weekend. 
+
+tendency /ˈtendənsi/ // (n.) an inclination towards a particular characteristic or type of behavior → There is a tendency for prices to rise in winter. 
+
+tentative /ˈtentətɪv/ // (adj.) not certain or fixed; provisional → They made a tentative plan to meet next week. 
+
+term /tɜːm/ // (n.) a word or phrase used to describe a thing or to express a concept, especially in a particular kind of language or branch of study; a fixed or limited period for which something lasts or is intended to last; (v.) give a descriptive name to; call → What does this term mean in this context? / He was elected for a four-year term. 
+
+terminal /ˈtɜːmɪnl/ // (adj.) leading to death; final; (n.) a building or set of buildings where people arrive at or depart from, especially an airport or train station; a point at which a transportation route ends → The patient has a terminal illness. / We arrived at the airport terminal early. 
+
+terminate /ˈtɜːmɪneɪt/ // (v.) bring to an end; put an end to → The contract will terminate at the end of the year. 
+
+testify /ˈtestɪfaɪ/ // (v.) give evidence as a witness in a law court; bear witness to something → He testified in court that he had seen the suspect. / The facts testify to his innocence. 
+
+trace /treɪs/ // (n.) a mark, object, or sign left by the passage of someone or something; a very small amount of something; (v.) find or discover by investigation; follow the course or trail of → They found traces of oil in the water. / She traced her family history back to the 18th century. 
+
+track /træk/ // (n.) a rough path or road, typically one beaten by use rather than constructed; a set of rails on which trains run; the course or direction followed by someone or something; (v.) follow the course or trail of someone or something; keep track of something → We walked along a narrow track in the forest. / The police tracked the criminal to his hideout. 
+
+tradition /trəˈdɪʃn/ // (n.) the transmission of customs or beliefs from generation to generation, or the fact of being passed on in this way; a long-established custom or belief → It is a tradition in our family to have a big dinner on New Year’s Eve. 
+
+ultimate /ˈʌltɪmət/ // (adj.) final; last in a series or process; highest in degree or importance; (n.) the best achievable or imaginable example of something → The ultimate goal of the project is to improve people’s lives. / This is the ultimate luxury car. 
+
+underestimate /ˌʌndərˈestɪmeɪt/ (v.) / ˌʌndərˈestɪmət/ (n.) // (v.) estimate (something) to be smaller or less important than it actually is; (n.) an estimate that is too low → We should not underestimate the difficulty of the task. / His success was due to others’ underestimate of his ability. 
+
+undergo /ˌʌndəˈɡəʊ/ // (v.) (underwent, undergone) experience or be subjected to (something, typically something unpleasant or arduous) → She underwent surgery to treat her illness. 
+
+underlie /ˌʌndəˈlaɪ/ // (v.) (underlay, underlain) lie or be placed under something else; form the basis of something → A strong sense of responsibility underlies his actions. 
+
+underlying /ˌʌndəˈlaɪɪŋ/ // (adj.) forming the basis of something; fundamental; present but not obvious → We need to address the underlying causes of the problem. 
+
+underline /ˌʌndəˈlaɪn/ // (v.) draw a line under (a word or phrase) to give emphasis or indicate that it is important; emphasize the importance of something → She underlined the key points in the note. / His words underlined the need for action. 
+
+understand /ˌʌndəˈstænd/ // (v.) (understood, understood) perceive the intended meaning of (words, a language, or a speaker); grasp or comprehend the meaning of something; be sympathetically or knowledgeably aware of the character or nature of someone or something → I don’t understand what he is saying. / She understands his feelings completely. 
+
+understanding /ˌʌndəˈstændɪŋ/ // (n.) the ability to grasp or comprehend the meaning of something; an agreement or arrangement reached between people; (adj.) sympathetically aware of other people’s feelings; tolerant and forgiving → He has a good understanding of mathematics. / We have an understanding that we will help each other. 
+
+undertake /ˌʌndəˈteɪk/ // (v.) (undertook, undertaken) commit oneself to and begin (an enterprise or responsibility); take on (a task or responsibility) → She undertook the task of organizing the conference.
+
+uneasy /ʌnˈiːzi/ // (adj.) causing or feeling anxiety; uncomfortable or awkward → She felt uneasy about walking alone at night. 
+
+unemployment /ˌʌnɪmˈplɔɪmənt/ // (n.) the state of being unemployed; the number of unemployed people → The unemployment rate in the country has decreased slightly. 
+
+unexpected /ˌʌnɪkˈspektɪd/ // (adj.) not expected or anticipated → The unexpected rain ruined our picnic plans. 
+
+unify /ˈjuːnɪfaɪ/ // (v.) make or become united, uniform, or whole → The country was unified after years of war. 
+
+union /ˈjuːniən/ // (n.) the action or fact of joining or being joined, especially in a political context; an organized association of workers formed to protect and further their rights and interests; the state of being united → The union of the two countries brought peace to the region. / She is a member of the teachers’ union. 
+
+unique /juːˈniːk/ // (adj.) being the only one of its kind; unlike anything else → Each person has a unique personality. 
+
+universal /ˌjuːnɪˈvɜːsl/ // (adj.) relating to or done by all people or things in the world or in a particular group; applicable to all cases; (n.) a universal truth or fact → Love is a universal emotion. / There are no universal solutions to all problems. 
+
+universe /ˈjuːnɪvɜːs/ // (n.) all existing matter, space, and time considered as a whole; the cosmos; a particular sphere of activity, interest, or experience → The universe is vast and mysterious. 
+
 unlike
 unlikely
 unusual
