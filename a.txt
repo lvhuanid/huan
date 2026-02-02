@@ -1196,108 +1196,204 @@ universal /ˌjuːnɪˈvɜːsl/ // (adj.) relating to or done by all people or th
 
 universe /ˈjuːnɪvɜːs/ // (n.) all existing matter, space, and time considered as a whole; the cosmos; a particular sphere of activity, interest, or experience → The universe is vast and mysterious. 
 
-unlike
-unlikely
-unusual
-vague
-vain
-valid
-valuable
-value
-vanish
-variable
-variance
-variation
-variety
-various
-vary
-vast
-wage
-wander
-want
-way
-weak
-wear
-weary
-weigh
-weight
-weird
-welfare
-whirl
-whisper
-yield
-youth
-zigzag
-zone
-zoom
-key
-knit
-patch
-patent
-pattern
-pay
-payment
-peculiar
-peer
-per
-perceive
-percentage
-perfect
-rail
-railroad
-railway
-raise
-rally
-random
-range
-rank
-master
-masterpiece
-mate
-material
-mathematical
-mature
-maximum
-mean
-meaning
-means
-meantime
-meanwhile
-measure
-opening
-opera
-operate
-operation
-operational
-operator
-opinion
-opportunity
-opponent
-oppose
-opposite
-oppress
-scope
-score
-scorn
-secure
-security
-see
-seek
-seem
-seemingly
-thrift
-thrill
-thrive
-through
-throughout
-tip
-title
-urban
-urge
-urgent
-utilize
-utilise
-utter
+unlike /ʌnˈlaɪk/ // (prep.) different from; not similar to; (adj.) different in nature, character, or appearance → Unlike his brother, he is quiet and reserved. / The two paintings are unlike in style. 
+unlikely /ʌnˈlaɪkli/ // (adj.) not likely to happen, be true, or be the case; improbable → It is unlikely that he will arrive on time in such bad weather. 
+
+unusual /ʌnˈjuːʒuəl/ // (adj.) not habitually or commonly occurring or done; out of the ordinary → She has an unusual hobby of collecting old stamps. 
+
+vague /veɪɡ/ // (adj.) of uncertain, indefinite, or unclear character or meaning → His explanation was vague and didn’t answer our questions. 
+
+vain /veɪn/ // (adj.) having or showing an excessively high opinion of one’s appearance, abilities, or worth; producing no result; futile → She is vain about her beauty and spends hours dressing up. / All our efforts to save the old building were in vain. 
+
+valid /ˈvælɪd/ // (adj.) having a sound basis in logic or fact; reasonable or cogent; legally binding → This ticket is valid for three months. / His argument is valid and hard to refute. 
+
+valuable /ˈvæljuəbl/ // (adj.) worth a lot of money; very useful or important → She gave me a valuable painting as a gift. / His advice is very valuable for my career. 
+
+value /ˈvæljuː/ // (n.) the regard that something is held to deserve; the importance, worth, or usefulness of something; the material or monetary worth of something; (v.) estimate the monetary worth of; regard highly; cherish → The value of honesty cannot be overstated. / He values his family more than anything else. 
+
+vanish /ˈvænɪʃ/ // (v.) disappear suddenly and completely → The magician made the rabbit vanish in front of our eyes. 
+
+variable /ˈveəriəbl/ // (adj.) able to change or be changed; liable to vary; (n.) a quantity that may take any one of a set of values; something that is likely to vary → The weather here is very variable this time of year. / Temperature is a key variable in this experiment. 
+
+variance /ˈveəriəns/ // (n.) the fact or quality of being different, divergent, or inconsistent; a difference between two or more numbers or sets of numbers → There is a great variance between his words and his actions. 
+
+variation /ˌveəriˈeɪʃn/ // (n.) a change or difference in condition, amount, or level, typically with certain limits; a different or distinct form or version of something → There are many variations of this traditional recipe. / The variation in temperature between day and night is large. 
+
+variety /vəˈraɪəti/ // (n.) the quality or state of being different or diverse; the absence of uniformity or monotony; a number or range of different things → The shop offers a wide variety of fruits and vegetables. 
+
+various /ˈveəriəs/ // (adj.) different from one another; of different kinds → She has various hobbies, including painting and playing the piano. 
+
+vary /ˈveəri/ // (v.) differ in size, amount, degree, or nature from something else of the same general class; change or cause to change in form, amount, or nature → The prices of vegetables vary with the seasons. 
+
+vast /vɑːst/ // (adj.) of very great extent or quantity; immense → The desert is a vast expanse of sand. 
+
+wage /weɪdʒ/ // (n.) a fixed regular payment earned for work or services, typically paid on a daily or weekly basis; (v.) carry on (a war, campaign, or other contest or struggle) → He earns a weekly wage of $500. / The country waged a war against poverty. 
+
+wander /ˈwɒndə(r)/ // (v.) walk or move in a leisurely or aimless way; travel aimlessly from place to place → We wandered around the old town for hours. / His mind wandered during the meeting. 
+
+want /wɒnt/ // (v.) have a desire to possess or do something; wish for; need; (n.) a desire or wish for something; a lack of something → I want to go to the park this weekend. / There is a want of food in the disaster area. 
+
+way /weɪ/ // (n.) a method, style, or manner of doing something; a road, path, or route; a direction; (adv.) much; far → What’s the best way to solve this problem? / She lives a long way from here. 
+
+weak /wiːk/ // (adj.) lacking strength or energy; not physically strong; not strong in character, will, or determination; (of a sound, signal, or light) faint → She felt weak after being ill for a week. / His argument is weak and unconvincing. 
+
+wear /weə(r)/ // (v.) (wore, worn) have (clothing, footwear, or an accessory) on one’s body; become damaged or shabby from use; (n.) clothing and other items worn on the body; the state of being worn → She wears a red dress today. / The shoes show signs of wear. 
+
+weary /ˈwɪəri/ // (adj.) feeling or showing tiredness, especially as a result of excessive exertion or lack of sleep; (v.) make or become weary → He looked weary after a long day at work. / The long journey wearied us all. 
+
+weigh /weɪ/ // (v.) find out how heavy (someone or something) is, typically using scales; consider carefully; have a specified weight → She weighed herself on the scales this morning. / We need to weigh the pros and cons before making a decision. 
+
+weight /weɪt/ // (n.) the force exerted on the mass of a body by a gravitational field; the amount that a thing weighs; importance, influence, or effect; (v.) add weight to; load down → The baby’s weight is 8 kilograms. / His opinion carries great weight in the company. 
+
+weird /wɪəd/ // (adj.) suggesting something supernatural; uncanny; strange or bizarre → He told a weird story about a haunted house. 
+
+welfare /ˈwelfeə(r)/ // (n.) the health, happiness, and fortunes of a person or group; statutory procedure or social effort designed to promote the basic physical and material well-being of people in need → The government is responsible for the welfare of its citizens.
+
+whirl /wɜːl/ // (v.) move or cause to move rapidly around and around; (n.) a rapid spinning movement; a state of confusion → The leaves whirled in the wind. / Her mind was in a whirl after hearing the news. 
+
+whisper /ˈwɪspə(r)/ // (v.) speak very softly or quietly, using one’s breath rather than one’s throat, especially for the sake of secrecy; (n.) a soft or quiet voice or sound → She whispered a secret in my ear. / We heard a whisper from the next room. 
+
+yield /jiːld/ // (v.) produce or provide (a natural, agricultural, or industrial product); give way to pressure or force; agree to a demand; (n.) an amount produced of an agricultural or industrial product → The farm yields a large amount of wheat every year. / He refused to yield to pressure. 
+
+youth /juːθ/ // (n.) the period between childhood and adult age; the quality or state of being young; young people collectively → He spent his youth in the countryside. / The youth of today are more tech-savvy. 
+
+zigzag /ˈzɪɡzæɡ/ // (n.) a line or course having abrupt alternate right and left turns; (adj.) having or forming a zigzag; (v.) move in a zigzag course → The path up the mountain is a steep zigzag. / The river zigzags through the valley. 
+
+zone /zəʊn/ // (n.) an area or region distinguished from adjacent parts by a distinctive characteristic or feature; (v.) divide into or assign to zones → This is a residential zone, so no factories are allowed. / The city is zoned for different types of development. 
+
+zoom /zuːm/ // (v.) move or travel very quickly; (n.) a rapid movement; a camera lens that can be adjusted to make distant objects appear closer or farther away → The car zoomed past us on the highway. / Use the zoom to get a better view of the stage. 
+
+key /kiː/ // (n.) a small piece of metal with incisions cut to fit the wards of a particular lock, which is inserted into a lock and turned to open or close it; a thing that provides a means of gaining access to or understanding something; (adj.) of crucial importance; (v.) lock or unlock with a key → I lost the key to my office. / Communication is key to a successful relationship. 
+
+knit /nɪt/ // (v.) (knitted/knit, knitted/knit) make (a garment, blanket, etc.) by interlocking loops of wool or other yarn with knitting needles or on a machine; join closely together → She knitted a sweater for her son. / The two communities are knitted together by shared traditions. 
+
+patch /pætʃ/ // (n.) a piece of material used to mend or strengthen a torn or weak point; a small area of something that is different in appearance or character from its surroundings; (v.) mend or strengthen with a patch → She sewed a patch on the knee of her jeans. / The garden has patches of colorful flowers. 
+
+patent /ˈpeɪtnt/ (adj./n.) / ˈpeɪtent/ (v.) // (adj.) obvious; clearly apparent; (n.) a government authority or license conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention; (v.) obtain a patent for (an invention) → It is patent that he is lying. / He applied for a patent for his new invention. 
+
+pattern /ˈpætn/ // (n.) a repeated decorative design; a regular or consistent way in which something happens or is done; (v.) decorate with a repeated design; model oneself on or imitate → The dress has a floral pattern. / She patterned her style after her favorite writer. 
+
+pay /peɪ/ // (v.) (paid, paid) give (someone) money that is due for work done, goods received, or a debt incurred; (n.) money paid for work or services → He gets paid on the last day of every month. / The job offers good pay and benefits. 
+
+payment /ˈpeɪmənt/ // (n.) the action or process of paying someone or something, or of being paid; a sum of money paid → Please make the payment before the deadline. / We received a payment for the goods we delivered.
+
+peculiar /pɪˈkjuːliə(r)/ // (adj.) strange or odd; unusual; belonging exclusively to a particular person, group, or place → He has a peculiar habit of talking to himself. / This is a custom peculiar to this region. 
+
+peer /pɪə(r)/ // (n.) a person of the same age, status, or ability as another specified person; (v.) look closely or with difficulty at something → She discussed her problems with her peers. / He peered through the window to see who was outside. 
+
+per /pɜː(r)/ // (prep.) for each; by means of; according to → The cost is $5 per person. / Please send the report per our agreement. 
+
+perceive /pəˈsiːv/ // (v.) become aware or conscious of (something); come to realize or understand → She perceived a change in his attitude towards her. / We perceive colors with our eyes. 
+
+percentage /pəˈsentɪdʒ/ // (n.) a rate, number, or amount in each hundred; a proportion of a whole expressed in hundredths → A large percentage of students passed the exam. / What percentage of your income do you spend on food? 
+
+perfect /ˈpɜːfɪkt/ (adj.) / pəˈfekt/ (v.) // (adj.) having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be; (v.) make (something) as good as possible; improve something so that it is without fault → She speaks perfect English. / He tried to perfect his painting skills. 
+
+rail /reɪl/ // (n.) a bar fixed horizontally for a person to hold onto for support; a set of rails forming a track for trains, trams, etc.; (v.) complain bitterly about something → She held onto the rail to keep her balance. / He railed against the unfair decision. 
+
+railroad /ˈreɪlrəʊd/ (AmE) / railway /ˈreɪlweɪ/ (BrE) // (n.) a system of tracks with trains running on them for the transportation of people and goods; (v.) (AmE) force someone to do something quickly or without proper consideration → He works for the railroad company. / They railroaded the bill through Congress. 
+
+raise /reɪz/ // (v.) lift or move to a higher position or level; increase the amount, level, or strength of something; bring up (a child); collect or gather (money, support, etc.) → She raised her hand to ask a question. / The company raised salaries for all employees. 
+
+rally /ˈræli/ // (n.) a mass meeting of people making a political protest or showing support for a cause; a recovery of strength or spirits; (v.) come together again in order to continue fighting or struggling; recover strength or spirits → Thousands of people attended the protest rally. / The team rallied in the second half to win the game. 
+
+random /ˈrændəm/ // (adj.) made, done, or happening without method or conscious decision; (n.) a random process or selection → The sample was chosen at random. / He made a random guess and got the answer right. 
+
+range /reɪndʒ/ // (n.) a set of different things of the same general type; the area covered by or included in something; the distance over which something can be seen or heard; (v.) vary between specified limits; move or travel around an area → The store sells a wide range of products. / Prices range from $10 to $50. 
+
+rank /ræŋk/ // (n.) a position in a social hierarchy or in an organization; a row or line of people or things; (v.) have a specified position in a hierarchy or scale; classify as belonging to a particular rank → He holds the rank of captain in the army. / This restaurant ranks among the best in the city. 
+
+master /ˈmɑːstə(r)/ // (n.) a skilled practitioner of a particular art or activity; a person who has control or authority over others; (v.) become skilled or proficient in (something); gain control over (something) → He is a master of piano. / She mastered the language in just two years. 
+
+masterpiece /ˈmɑːstəpiːs/ // (n.) a work of art of outstanding quality; a thing made with great skill or artistry → The Mona Lisa is one of da Vinci’s masterpieces. 
+
+mate /meɪt/ // (n.) a friend or companion; a partner in marriage or a romantic relationship; (v.) (of animals) pair for breeding; (informal) get married → He went to the park with his old mate. / The birds mate in spring. 
+
+material /məˈtɪəriəl/ // (n.) the matter from which a thing is or can be made; cloth; information used when writing a book, article, etc.; (adj.) relevant or important → The chair is made of wood and other natural materials. / Do you have any material on this topic? 
+
+mathematical /ˌmæθəˈmætɪkl/ // (adj.) relating to mathematics; using or involving mathematics → He has a strong mathematical ability. / The problem requires a mathematical solution. 
+
+mature /məˈtʃʊə(r)/ // (adj.) fully developed physically; full-grown; having reached an advanced stage of mental or emotional development; (v.) become mature → She is a mature woman who handles problems calmly. / Children mature at different rates. 
+
+maximum /ˈmæksɪməm/ // (adj.) of the greatest possible amount or degree; (n.) the greatest amount, extent, or degree possible → The maximum speed on this road is 60 kilometers per hour. / We need to achieve the maximum possible efficiency.
+
+mean /miːn/ // (v.) (meant, meant) intend to convey or refer to (a particular thing); signify; have as a consequence; (adj.) unkind, spiteful, or unfair; average; (n.) an average level or amount → What do you mean by that? / She can be mean to her little brother sometimes. / The mean temperature in July is 30 degrees. 
+
+meaning /ˈmiːnɪŋ/ // (n.) what is meant by a word, text, concept, or action; the significance of something; (adj.) having a clear meaning; purposeful → I don’t understand the meaning of this word. / Her life has a new meaning since she had her child.
+
+means /miːnz/ // (n.) an action or system by which a result is achieved; a method; money or resources → We need to find a means to solve this problem. / He has the means to buy a new house.
+
+meantime /ˈmiːntaɪm/ // (n.) the time between two events; (adv.) meanwhile → We are waiting for the results; in the meantime, we can relax. 
+
+meanwhile /ˈmiːnwaɪl/ // (adv.) in the meantime; at the same time → She was cooking dinner; meanwhile, her husband was watching TV. 
+
+measure /ˈmeʒə(r)/ // (n.) a standard unit used to express the size, amount, or degree of something; an action taken to achieve a particular purpose; (v.) ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units → The measure of success is not just money. / She measured the length of the table with a ruler.
+
+opening /ˈəʊpənɪŋ/ // (n.) a space or gap that allows passage or access; the beginning of something; an opportunity; (adj.) providing access; beginning → There is an opening in the wall for the window. / The opening of the new museum was a big event. 
+
+opera /ˈɒprə/ // (n.) a dramatic work in one or more acts, set to music for singers and instrumentalists → We went to see an opera at the theater last night. 
+
+operate /ˈɒpəreɪt/ // (v.) (of a machine, device, or system) work or function; control the functioning of (a machine, device, or system); perform a surgical operation on someone; run or manage (a business, organization, etc.) → The machine operates smoothly. / The doctor operated on her knee yesterday. 
+
+operation /ˌɒpəˈreɪʃn/ // (n.) the action of operating or being operated; a surgical procedure; the way in which a machine, organization, or system works; a business or organization → The operation of the new system will begin next month. / The operation was a success. 
+
+operational /ˌɒpəˈreɪʃənl/ // (adj.) in or ready for use; relating to the operation of a machine, organization, or system → The new airport will be operational next year. 
+
+operator /ˈɒpəreɪtə(r)/ // (n.) a person who operates equipment or a machine; a person who works at a telephone switchboard; a company that runs a business or organization → The machine operator checked the equipment regularly. 
+
+opinion /əˈpɪnjən/ // (n.) a view or judgment formed about something, not necessarily based on fact or knowledge → In my opinion, this is the best movie of the year. / She asked for my opinion on her new dress. 
+
+opportunity /ˌɒpəˈtjuːnəti/ // (n.) a time or set of circumstances that makes it possible to do something → He missed the opportunity to study abroad. / This is a great opportunity for us to expand our business.
+
+opponent /əˈpəʊnənt/ // (n.) someone who competes against or opposes another in a contest, game, or argument → He defeated his opponent in the final match. / She is a strong opponent of the new policy. 
+
+oppose /əˈpəʊz/ // (v.) disagree with and attempt to prevent, especially by argument → Many people oppose the plan to build a new factory here. 
+
+opposite /ˈɒpəzɪt/ // (adj.) completely different; of a contrary kind; (n.) a person or thing that is completely different from someone or something else; (prep./adv.) facing someone or something; on the other side → Her personality is the opposite of her sister’s. / The bank is opposite the park. 
+
+oppress /əˈpres/ // (v.) keep (someone) in subjection and hardship, especially by the unjust exercise of authority → The people were oppressed by the cruel ruler. 
+
+scope /skəʊp/ // (n.) the extent of the area or subject matter that something deals with or to which it is relevant; the opportunity or possibility to do or deal with something → The scope of this project is very wide. / There is no scope for error in this task. 
+
+score /skɔː(r)/ // (n.) the number of points, goals, runs, etc., achieved in a game or competition; a written or printed version of a musical composition; (v.) gain (points, goals, runs, etc.) in a game or competition; write down a musical composition → The final score of the game was 3-2. / He scored a goal in the last minute. 
+
+scorn /skɔːn/ // (n.) contempt or disdain felt toward someone or something regarded as unworthy or inferior; (v.) feel or express contempt or disdain for → She looked at him with scorn. / He scorned the idea of asking for help. 
+
+secure /sɪˈkjʊə(r)/ // (adj.) fixed or fastened so as not to give way, become loose, or be lost; free from danger or threat; (v.) fix or fasten something securely; obtain or achieve something, especially with difficulty → Make sure the door is secure before you leave. / He secured a job in a big company. 
+
+security /sɪˈkjʊərəti/ // (n.) the state of being free from danger or threat; measures taken to ensure the safety of a person, building, or country; financial assets or guarantees → The company takes security very seriously. / She has a sense of security when she is with her family.
+
+see /siː/ // (v.) (saw, seen) perceive with the eyes; discern visually; be aware of or perceive (something) → I can see a bird in the tree. / She saw him walking down the street. 
+
+seek /siːk/ // (v.) (sought, sought) attempt to find or attain; ask for or try to obtain (something from someone); look for or try to discover → He is seeking a solution to the problem. / She sought advice from her teacher. 
+
+seem /siːm/ // (v.) give the impression of being something or having a particular quality; appear to be → She seems happy today. / It seems that he is late again. 
+
+seemingly /ˈsiːmɪŋli/ // (adv.) in a way that appears to be true but may not be; apparently → He seemingly had no idea what was happening. 
+
+thrift /θrɪft/ // (n.) the quality of using money and other resources carefully and not wastefully → Thrift is a virtue that everyone should have. 
+
+thrill /θrɪl/ // (n.) a sudden feeling of excitement and pleasure; (v.) cause (someone) to feel a sudden intense pleasure or excitement → Winning the game gave her a great thrill. / The roller coaster thrilled the children. 
+
+thrive /θraɪv/ // (v.) (thrived/throve, thrived/thriven) grow or develop well or vigorously; prosper → Plants thrive in warm, sunny weather. / His business is thriving in the new location. 
+
+through /θruː/ // (prep.) moving in one side and out of the other side of (an opening, channel, or location); from the beginning to the end of (a period of time); by means of; (adv.) moving in one side and out the other; completely; (adj.) finished or completed; having made a passage through → She walked through the park to get home. / We worked through the night to finish the project. 
+
+throughout /θruːˈaʊt/ // (prep.) in or during every part of (a period of time or a place); (adv.) in every part; all over → It rained throughout the day. / The house is decorated beautifully throughout. 
+
+tip /tɪp/ // (n.) the pointed or rounded end of something; a small piece of advice; a small amount of money given to someone for a service; (v.) knock or push (something) over; give a tip to someone → The tip of the pencil is broken. / She gave me a tip on how to learn English well. 
+
+title /ˈtaɪtl/ // (n.) the name of a book, film, song, painting, etc.; a name that describes someone’s position or status; (v.) give a title to (a book, film, etc.) → The title of the book is “The Great Gatsby”. / He holds the title of CEO. 
+
+urban /ˈɜːbən/ // (adj.) relating to or characteristic of a town or city → She prefers urban life to rural life. / The urban population is growing rapidly. 
+
+urge /ɜːdʒ/ // (v.) try earnestly or persistently to persuade (someone) to do something; encourage or press (someone) to do something; (n.) a strong desire or impulse → She urged him to reconsider his decision. / He felt an urge to travel around the world. 
+
+urgent /ˈɜːdʒənt/ // (adj.) requiring immediate action or attention → This is an urgent matter that needs to be dealt with at once. 
+
+utilize /ˈjuːtəlaɪz/ (AmE) /utilise /ˈjuːtəlaɪz/ (BrE) // (v.) make practical and effective use of (something) → We need to utilize our resources more efficiently. 
+
+utter /ˈʌtə(r)/ // (adj.) complete; absolute; (v.) make a sound with one’s voice; say → It was an utter waste of time. / She uttered a cry of surprise when she saw him. 
 wonder
 worship
 worth
