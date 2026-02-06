@@ -1394,110 +1394,213 @@ urgent /ˈɜːdʒənt/ // (adj.) requiring immediate action or attention → Thi
 utilize /ˈjuːtəlaɪz/ (AmE) /utilise /ˈjuːtəlaɪz/ (BrE) // (v.) make practical and effective use of (something) → We need to utilize our resources more efficiently. 
 
 utter /ˈʌtə(r)/ // (adj.) complete; absolute; (v.) make a sound with one’s voice; say → It was an utter waste of time. / She uttered a cry of surprise when she saw him. 
-wonder
-worship
-worth
-worthwhile
-worthy
-write
-writer
-abandon
-abide
-ability
-able
-abnormal
-background
-balance
-base
-basement
-basic
-basis
-calculate
-call
-calm
-campaign
-candidate
-data
-database
-date
-dazzle
-deal
-dealer
-debate
-decade
-decide
-decision
-decisive
-decorate
-economic
-economical
-economics
-economy
-educate
-education
-effect
-effective
-efficient
-efficiency
-effort
-fabric
-fabricate
-face
-facet
-factor
-fade
-fail
-failure
-fair
-fairly
-fall
-fan
-fancy
-fascinate
-gain
-gamble
-gap
-gene
-general
-generalize
-generalise
-habit
-habitat
-hamper
-handicap
-shield
-shift
-shoulder
-show
-shower
-embrace
-embed
-embody
-embryo
-elicit
-elite
-elsewhere
-thirst
-thorough
-though
-thought
-thoughtful
-threat
-threaten
-update
-upgrade
-uphold
-upset
-up-to-date
-ventilate
-venture
-widespread
-win
-wit
-withdraw
-witness
-inaugurate
-incentive
+
+wonder /ˈwʌndə(r)/ // (v.) feel a desire or curiosity to know something; be surprised or amazed at something; (n.) a feeling of surprise or admiration caused by something beautiful, unexpected, or unfamiliar; a person or thing that causes such a feeling → I wonder what time he will arrive. / The Great Wall is one of the wonders of the world. 
+
+worship /ˈwɜːʃɪp/ // (v.) show reverence and adoration for (a deity); have a strong feeling of admiration or devotion for someone or something; (n.) the feeling or expression of reverence and adoration for a deity; great admiration or devotion for someone or something → Many people worship in the church on Sundays. / She has a worship for her favorite author. 
+
+worth /wɜːθ/ // (adj.) having a value of; deserving of or suitable for (something); (n.) the value equivalent to that of someone or something under consideration; the level at which someone or something deserves to be valued or rated → The necklace is worth $1000. / He is worth trusting with this task. 
+
+worthwhile /ˌwɜːθˈwaɪl/ // (adj.) worth the time, money, or effort spent; of value or importance → It is worthwhile to learn a second language. / The trip was worthwhile despite the bad weather. 
+
+worthy /ˈwɜːði/ // (adj.) having or showing the qualities that deserve the specified action or regard; deserving of respect or attention → She is a worthy winner of the award. / His efforts are worthy of praise. 
+
+write /raɪt/ // (v.) (wrote, written) mark (letters, words, or other symbols) on a surface, typically with a pen or pencil; compose, write, or produce (a text, letter, etc.) → She writes a diary every night. / He wrote a novel about his childhood. 
+
+writer /ˈraɪtə(r)/ // (n.) a person who writes books, articles, stories, etc., especially as a job → She is a famous writer who has published many bestsellers. 
+
+abandon /əˈbændən/ // (v.) leave behind or desert; give up completely (a practice, habit, or belief); (n.) complete lack of inhibition or restraint → He abandoned his car on the side of the road. / She screamed with abandon when she won the game. 
+
+abide /əˈbaɪd/ // (v.) (abode/abided, abode/abided) accept or act in accordance with (a rule, decision, or recommendation); tolerate; live or reside in a place → We must abide by the rules of the school. / He abided in the small village all his life. 
+
+ability /əˈbɪləti/ // (n.) the capacity to do something well; skill or competence → She has the ability to speak three languages fluently. 
+
+able /ˈeɪbl/ // (adj.) having the power, skill, means, or opportunity to do something; capable → He is able to finish the work on time. 
+
+abnormal /æbˈnɔːml/ // (adj.) deviating from what is normal or usual, typically in a way that is undesirable or worrying → His abnormal behavior made his friends worried. 
+
+background /ˈbækɡraʊnd/ // (n.) the part of a scene or picture that is behind the main subject; a person’s education, experience, and social circumstances → The mountains form a beautiful background to the village. / She has a background in computer science. 
+
+balance /ˈbæləns/ // (n.) an even distribution of weight enabling someone or something to remain upright and steady; a state of equilibrium; the difference between credits and debits in an account; (v.) keep or put (something) in a steady position so that it does not fall; offset or compare the value of (one thing) with another → She tried to keep her balance on the tightrope. / We need to balance work and rest. 
+
+base /beɪs/ // (n.) the lowest part or edge of something, especially the part on which it rests or is supported; a center of operations or activity; (v.) use something as the foundation or starting point for something; (adj.) (of a person or action) without moral principles; ignoble → The lamp stands on a circular base. / He based his argument on facts. 
+
+basement /ˈbeɪsmənt/ // (n.) the floor of a building that is partly or completely below ground level → They stored their old furniture in the basement. 
+
+basic /ˈbeɪsɪk/ // (adj.) forming an essential foundation or starting point; fundamental; (n.) a fundamental fact, idea, or principle → These are the basic rules of grammar. / He taught me the basics of playing the guitar.
+
+basis /ˈbeɪsɪs/ // (n.) the underlying support or foundation for an idea, argument, or process → Trust is the basis of a good relationship. 
+
+calculate /ˈkælkjuleɪt/ // (v.) determine (the amount or number of something) mathematically; reckon; plan or intend (something) with care → She calculated the cost of the trip carefully. / We calculate that the project will take three months. 
+
+call /kɔːl/ // (v.) cry out to (someone) in order to attract their attention; telephone someone; give a name to; (n.) a cry made to attract someone’s attention; a telephone conversation; an invitation or summons → She called his name but he didn’t hear. / I received a call from my mother this morning. 
+
+calm /kɑːm/ // (adj.) not showing or feeling nervousness, anger, or other strong emotions; peaceful and quiet; (v.) make (someone or something) calm or quiet; (n.) the state of being calm → She remained calm despite the emergency. / He tried to calm the crying child. 
+
+campaign /kæmˈpeɪn/ // (n.) an organized course of action to achieve a goal, especially a political or social one; a series of military operations intended to achieve a particular objective; (v.) take part in or lead a campaign → They launched a campaign to protect the environment. / He campaigned for the president. 
+
+candidate /ˈkændɪdət/ // (n.) a person who applies for a job or is nominated for election; a person taking an examination → There are three candidates for the position. / She is a candidate for the math competition.
+
+data /ˈdeɪtə/ (pl.) / ˈdɑːtə/ // (n.) facts and statistics collected together for reference or analysis → The data shows that sales have increased this month. 
+
+database /ˈdeɪtəbeɪs/ // (n.) a structured set of data held in a computer, especially one that is accessible in various ways → The company has a large database of customers. 
+
+date /deɪt/ // (n.) the day of the month or year as specified by a number; a social or romantic appointment with someone; (v.) mark or label with a date; go out on a date with someone → Today’s date is October 1st. / They have been dating for six months. 
+
+dazzle /ˈdæzl/ // (v.) blind (someone) temporarily with bright light; impress (someone) greatly with skill or beauty; (n.) bright light that blinds someone temporarily; great impressiveness or skill → The sun dazzled her eyes. / His performance was a dazzle of skill. 
+
+deal /diːl/ // (v.) (dealt, dealt) distribute (cards) to players in a game; handle or cope with a situation or person; (n.) an agreement between two or more parties as to a course of action; a quantity of something → He dealt the cards to everyone at the table. / They made a deal to cooperate on the project. 
+
+dealer /ˈdiːlə(r)/ // (n.) a person or business that buys and sells goods; a person who deals cards in a game → He is a car dealer who sells luxury cars. 
+
+debate /dɪˈbeɪt/ // (n.) a formal discussion on a particular topic in a public meeting or legislative assembly, in which opposing arguments are put forward; (v.) argue about (a subject), especially in a formal manner → There was a heated debate about the new policy. / They debated whether to accept the offer. 
+
+decade /ˈdekeɪd/ // (n.) a period of ten years → The company has grown rapidly in the past decade. 
+
+decide /dɪˈsaɪd/ // (v.) come or bring to a resolution in the mind as a result of consideration; make a choice from a number of possibilities → She decided to study abroad. / We need to decide on a date for the meeting.
+
+decision /dɪˈsɪʒn/ // (n.) a choice made after consideration; a resolution reached after consideration → His decision to quit his job surprised everyone. 
+
+decisive /dɪˈsaɪsɪv/ // (adj.) settling an issue; producing a definite result; having or showing the ability to make decisions quickly and effectively → This is a decisive moment in the game. / He is a decisive leader who can make tough choices. 
+
+decorate /ˈdekəreɪt/ // (v.) add something to (a place or object) to make it more attractive; award a medal or other honor to (someone) → They decorated the house with Christmas lights. / He was decorated for his bravery in the war. 
+
+economic /ˌiːkəˈnɒmɪk/ // (adj.) relating to economics or the economy → The country is facing economic difficulties. 
+
+economical /ˌiːkəˈnɒmɪkl/ // (adj.) giving good value or return in relation to the money, time, or effort expended; using no more than is necessary → She is an economical cook who never wastes food. 
+
+economics /ˌiːkəˈnɒmɪks/ // (n.) the branch of knowledge concerned with the production, consumption, and transfer of wealth → He studied economics at university. 
+
+economy /ɪˈkɒnəmi/ // (n.) the state of a country or region in terms of the production and consumption of goods and services and the supply of money; careful management of available resources → The economy of the country is growing steadily. / We need to practice economy in our daily lives. 
+
+educate /ˈedʒukeɪt/ // (v.) give intellectual, moral, and social instruction to (someone), especially as a formal process; inform or instruct (someone) about something → Parents have a responsibility to educate their children. / He educated me about the importance of protecting the environment. 
+
+education /ˌedʒuˈkeɪʃn/ // (n.) the process of receiving or giving systematic instruction, especially at a school or university; an enlightening experience → She received a good education at a top university. 
+
+effect /ɪˈfekt/ // (n.) a change which is a result or consequence of an action or other cause; the extent to which something succeeds or is operative; (v.) cause (something) to happen; bring about → The medicine had a positive effect on his health. / He effected a change in the company’s policy. 
+
+effective /ɪˈfektɪv/ // (adj.) successful in producing a desired or intended result; in effect; actual → This is an effective way to solve the problem. / The new law will become effective next month. 
+
+efficient /ɪˈfɪʃnt/ // (adj.) achieving maximum productivity with minimum wasted effort or expense → She is an efficient worker who finishes her tasks quickly. 
+
+efficiency /ɪˈfɪʃnsi/ // (n.) the state or quality of being efficient; the ratio of the useful work performed by a machine or in a process to the total energy expended or heat taken in → We need to improve the efficiency of our work. 
+
+effort /ˈefət/ // (n.) physical or mental exertion directed toward doing or accomplishing something; a serious attempt to do something → She made a great effort to finish the work on time. 
+
+fabric /ˈfæbrɪk/ // (n.) cloth produced by weaving or knitting textile fibers; the basic structure of a society or organization → She bought a piece of cotton fabric to make a dress. / The fabric of society is changing rapidly. 
+
+fabricate /ˈfæbrɪkeɪt/ // (v.) invent (something) in order to deceive; manufacture (something) → He fabricated a story to avoid being punished. / The company fabricates car parts. 
+
+face /feɪs/ // (n.) the front part of a person’s head from the forehead to the chin, including the eyes, nose, and mouth; the front or surface of something; (v.) confront and deal with or accept (something difficult); be positioned with the front towards (something) → She has a beautiful face. / He faced many difficulties in his life. 
+
+facet /ˈfæsɪt/ // (n.) one side of a cut gem; a particular aspect or feature of something → The diamond has many facets that reflect light. / This is an important facet of the problem. 
+
+factor /ˈfæktə(r)/ // (n.) a circumstance, fact, or influence that contributes to a result; a number or quantity that when multiplied with another produces a given number or expression; (v.) contribute to the production of a result → Stress is a major factor in many illnesses. / His experience factors into his success. 
+
+fade /feɪd/ // (v.) gradually grow faint and disappear; lose color, brightness, or strength gradually → The sound of the music faded away. / The color of the carpet has faded over the years. 
+
+fail /feɪl/ // (v.) be unsuccessful in achieving a goal; not pass (a test or examination); neglect to do something; (n.) an instance of failing or being unsuccessful → He failed his driving test again. / Don’t fail to lock the door when you leave. 
+
+failure /ˈfeɪljə(r)/ // (n.) lack of success; the omission of an expected or required action; a person or thing that is unsuccessful → His plan ended in failure. / He is not a failure; he just needs more practice.
+
+fair /feə(r)/ // (adj.) free from bias, dishonesty, or injustice; treating people equally; (n.) a gathering of people for a particular purpose, especially a sale of goods or a competition; (adv.) fairly → She is a fair judge who treats everyone equally. / There is a book fair in the city this weekend. 
+
+fairly /ˈfeəli/ // (adv.) to a moderate extent or degree; quite; in a fair or impartial way → The task is fairly easy. / She treated all her students fairly. 
+
+fall /fɔːl/ // (v.) (fell, fallen) move downward, typically rapidly and freely without control; drop or descend under the force of gravity; (n.) an act of falling; the season between summer and winter → The leaves fall from the trees in autumn. / He had a fall and hurt his leg. 
+
+fan /fæn/ // (n.) an apparatus with rotating blades that creates a current of air for cooling or ventilation; a person who admires and supports a person, team, or sport; (v.) move air with a fan; show a strong liking for someone or something → She turned on the fan to cool down. / He is a big fan of football. 
+
+fancy /ˈfænsi/ // (adj.) decorative; elaborate; not plain; (v.) feel a desire or liking for; imagine or suppose; (n.) a desire or liking for something; the faculty of imagination → She wore a fancy dress to the party. / I fancy a cup of coffee.
+
+fascinate /ˈfæsɪneɪt/ // (v.) attract the strong attention and interest of (someone) → The mystery of the ancient ruins fascinates many people. 
+
+gain /ɡeɪn/ // (v.) obtain or secure (something desired, favorable, or profitable); increase in amount, size, or degree; (n.) an increase in amount, size, or degree; an advantage or benefit → She gained a lot of experience from the job. / The company made a big gain in profits this year. 
+
+gamble /ˈɡæmbl/ // (v.) play games of chance for money; bet on the outcome of an event; take risky action in the hope of a desired result; (n.) an act of gambling; a risky action or venture → He gambled all his money on the horse race. / Starting a new business is a bit of a gamble. 
+
+gap /ɡæp/ // (n.) a break or hole in an object or between two objects; a space between two things; a difference between two amounts, groups, or situations → There is a gap in the wall where the window used to be. / There is a big gap between rich and poor in some countries. 
+
+gene /dʒiːn/ // (n.) a unit of heredity which is transferred from a parent to offspring and is held to determine some characteristic of the offspring → The gene for blue eyes is recessive. 
+
+general /ˈdʒenrəl/ // (adj.) affecting or relating to all people or things in a particular group; not specific; (n.) a high-ranking officer in the army or air force → This is a general rule that applies to everyone. / He was promoted to the rank of general. 
+
+generalize /ˈdʒenrəlaɪz/ (AmE) / generalise /ˈdʒenrəlaɪz/ (BrE) // (v.) make a general or broad statement by inferring from specific cases; apply a general principle to a particular case → It is dangerous to generalize about all people from one example.
+
+habit /ˈhæbɪt/ // (n.) a regular tendency or practice, especially one that is hard to give up → She has a habit of drinking tea every morning. 
+
+habitat /ˈhæbɪtæt/ // (n.) the natural home or environment of an animal, plant, or other organism → The forest is the habitat of many wild animals. 
+
+hamper /ˈhæmpə(r)/ // (v.) hinder or impede the movement or progress of; (n.) a basket with a lid, used for carrying food, laundry, etc. → The bad weather hampered our progress. / She brought a hamper of food to the picnic. 
+
+handicap /ˈhændikæp/ // (n.) a condition that restricts a person’s ability to function physically, mentally, or socially; a disadvantage imposed on a competitor to make a contest more even; (v.) disadvantage (someone) in a particular situation, especially by imposing a handicap → His disability is not a handicap to his success. / The team was handicapped by the absence of their best player. 
+
+shield /ʃiːld/ // (n.) a broad piece of metal or another material fastened to the arm or held in the hand as a defense against weapons; something that provides protection or cover; (v.) protect from danger, injury, or damage with a shield or barrier → He held up a shield to block the attack. / Trees shield the house from the wind.
+
+shift /ʃɪft/ // (v.) move or cause to move from one place or position to another; change in position or direction; (n.) a change in position or direction; a period of work time → She shifted her chair closer to the table. / There is a shift in public opinion about the policy. 
+
+shoulder /ˈʃəʊldə(r)/ // (n.) each of the two upper limbs of the human body from the shoulder to the hand; the part of a person’s body where the arm joins the torso; (v.) carry (a heavy load) on one’s shoulder or shoulders; take responsibility for → He has a pain in his shoulder. / She shouldered the responsibility of taking care of her family. 
+
+show /ʃəʊ/ // (v.) (showed, shown/showed) display or exhibit (something) for others to see; demonstrate or prove (something); (n.) a public entertainment or exhibition; a display of a particular quality or emotion → She showed me her new phone. / There is a fashion show in the city center. 
+
+shower /ˈʃaʊə(r)/ // (n.) a brief and usually light fall of rain, hail, sleet, or snow; a device for spraying water over the body to wash oneself; (v.) rain or fall in a shower; wash oneself under a shower → We had a light shower this morning. / She showers every morning before work. 
+
+embrace /ɪmˈbreɪs/ // (v.) hold (someone) closely in one’s arms, especially as a sign of affection; accept or support (a belief, theory, or change) willingly and enthusiastically; (n.) an act of embracing someone or something → She embraced her son when he came home. / He embraced the new technology with enthusiasm. 
+
+embed /ɪmˈbed/ // (v.) fix (an object) firmly and deeply in a surrounding mass; incorporate or contain (something) as an essential part → The bullet was embedded in his leg. / The video is embedded in the webpage. 
+
+embody /ɪmˈbɒdi/ // (v.) be an expression of or give a tangible or visible form to (an idea, quality, or feeling) → Her actions embody the spirit of kindness. 
+
+embryo /ˈembriəʊ/ // (n.) an unborn or unhatched offspring in the process of development; a thing at an early stage of development → The embryo develops into a fetus. / This is an embryo of a new idea. 
+
+elicit /ɪˈlɪsɪt/ // (v.) evoke or draw out (a reaction, answer, or fact) from someone → The teacher elicited a lot of questions from the students.
+
+elite /eɪˈliːt/ // (n.) a select group that is superior in terms of ability or qualities to the rest of a group or society; (adj.) belonging to or characteristic of the elite → The elite of the country attended the meeting. / She went to an elite university. 
+
+elsewhere /ˌelsˈweə(r)/ // (adv.) in or to another place → If you can’t find it here, look elsewhere. 
+
+thirst /θɜːst/ // (n.) a feeling of needing or wanting to drink something; a strong desire for something; (v.) feel a need to drink; have a strong desire for something → He felt a great thirst after running for an hour. / She thirsts for knowledge. 
+
+thorough /ˈθʌrə/ // (adj.) complete with regard to every detail; not superficial or partial → She did a thorough cleaning of the house. 
+
+though /ðəʊ/ // (conj.) despite the fact that; although; (adv.) however; nevertheless → Though he is young, he is very experienced. / It was raining; I went out, though. 
+
+thought /θɔːt/ // (n.) an idea or opinion produced by thinking, or occurring suddenly in the mind; the action or process of thinking; (v.) past and past participle of think → I had a thought about our plan. / She thought about him all day. 
+
+thoughtful /ˈθɔːtfl/ // (adj.) showing consideration for the needs of other people; absorbed in or involving thought → She is a thoughtful person who always helps others. / He had a thoughtful expression on his face. 
+
+threat /θret/ // (n.) a statement of an intention to inflict pain, injury, damage, or other hostile action on someone in retribution for something done or not done; a person or thing likely to cause damage or danger → He received a death threat. / The storm is a threat to the coastal areas.
+
+threaten /ˈθretn/ // (v.) state one’s intention to take hostile action against (someone) in retribution for something done or not done; be likely to cause damage or harm to → He threatened to quit his job if his demands were not met. / The dark clouds threaten rain. 
+
+update /ʌpˈdeɪt/ (v.) / ˈʌpdeɪt/ (n.) // (v.) make (something) more modern or up to date; provide someone with the latest information about something; (n.) an up-to-date version of something; the latest information about something → She updated her phone to the latest software. / I need an update on the project progress. 
+
+upgrade /ˌʌpˈɡreɪd/ (v.) / ˈʌpɡreɪd/ (n.) // (v.) raise (something) to a higher standard, in particular improve (equipment or machinery) by adding or replacing components; (n.) an act of upgrading something → The company upgraded its computer system. / We got an upgrade to first class on the plane. 
+
+uphold /ʌpˈhəʊld/ // (v.) confirm or support (something which has been questioned) → The court upheld the decision of the lower court. 
+
+upset /ʌpˈset/ (v.) / ˈʌpset/ (adj./n.) // (v.) make (someone) unhappy, disappointed, or worried; knock over (something); (adj.) unhappy, disappointed, or worried; (n.) a feeling of unhappiness or disappointment; an unexpected result in a game or competition → The bad news upset her greatly. / He upset a glass of water on the table. 
+
+up-to-date /ˌʌp tə ˈdeɪt/ // (adj.) incorporating the latest developments and trends; modern → She always keeps her knowledge up-to-date. 
+
+ventilate /ˈventɪleɪt/ // (v.) allow fresh air to enter and circulate in (a room, building, etc.); express (a grievance or complaint) publicly or freely → Open the windows to ventilate the room. / She ventilated her anger at the meeting. 
+
+venture /ˈventʃə(r)/ // (n.) a risky or daring journey or undertaking; a business enterprise involving risk; (v.) dare to do or say something that may be considered bold or risky; embark on a risky or daring journey → Starting a new business is a risky venture. / He ventured to ask her out on a date. 
+
+widespread /ˈwaɪdspred/ // (adj.) found or distributed over a large area or number of people → There is widespread support for the new policy. 
+
+win /wɪn/ // (v.) (won, won) be successful or victorious in (a contest or conflict); achieve (a particular aim or result) through effort; (n.) an act of winning a contest or competition → He won the game easily. / Her hard work led to a big win. 
+
+wit /wɪt/ // (n.) the ability to use words and ideas in a clever and humorous way; intelligence → She is a woman of great wit and charm. 
+
+withdraw /wɪðˈdrɔː/ // (v.) (withdrew, withdrawn) remove or take away (something) from a particular place or position; cease to take part in or be involved with something; pull back or retreat → He withdrew his hand from the hot stove. / She withdrew from the competition due to injury. 
+
+witness /ˈwɪtnəs/ // (n.) a person who sees an event, typically a crime or accident, take place; a person who gives evidence in a court of law; (v.) see (an event, typically a crime or accident) take place; be present at (an event) → There were no witnesses to the crime. / He witnessed the accident on his way to work. 
+
+inaugurate /ɪˈnɔːɡjəreɪt/ // (v.) formally begin or introduce (a system, policy, or period); induct (someone) formally into a public office → The new president was inaugurated yesterday. / They inaugurated a new policy to improve education. 
+
+incentive /ɪnˈsentɪv/ // (n.) a thing that motivates or encourages someone to do something → The company offers a financial incentive to employees who work hard. 
+
 incidence
 incident
 incidentally
