@@ -16,3 +16,4 @@ bouquet:  an attractively arranged bunch of flowers, especially one presented as
 fanfare: a short ceremonial tune or flourish played on brass instruments, typically to introduce something or someone important
 solitude: the state or situation of being alone
 surmountable: possible to deal with or solve successfully
+unearth: to find something in the ground
