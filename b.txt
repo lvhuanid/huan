@@ -17,3 +17,4 @@ fanfare: a short ceremonial tune or flourish played on brass instruments, typica
 solitude: the state or situation of being alone
 surmountable: possible to deal with or solve successfully
 unearth: to find something in the ground
+bizarre: very strange and unusual
