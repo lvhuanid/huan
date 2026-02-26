@@ -18,3 +18,5 @@ solitude: the state or situation of being alone
 surmountable: possible to deal with or solve successfully
 unearth: to find something in the ground
 bizarre: very strange and unusual
+lucrative: producing a great deal of profit
+profitable: (of a business or activity) yielding profit or financial gain; beneficial; useful
