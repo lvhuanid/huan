@@ -20,3 +20,4 @@ unearth: to find something in the ground
 bizarre: very strange and unusual
 lucrative: producing a great deal of profit
 profitable: (of a business or activity) yielding profit or financial gain; beneficial; useful
+estate: an extensive area of land in the country, usually with a large house, owned by one person, family, or organization
