@@ -58,6 +58,8 @@ cognitive: relating to the process of acquiring knowledge and understanding thro
 tissue: any of the distinct types of material of which animals or plants are mad, consisting of specialized cells and their products
 decay: (of organic matter) rot or decompose through the action of bacteria and fungi
 meager: (of something provided or available) lacking in quantity or quality
+mammal: a warm-blooded vertebrate animal of a class that is distinguished by the prossession of hair or fur, the secretion of milk by females for the nourishment of the young, and (typically) the birth of live young
+magafauna: the large mammals of a particular region, habit, or geological period
 
 
 
