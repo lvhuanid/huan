@@ -62,6 +62,8 @@ mammal: a warm-blooded vertebrate animal of a class that is distinguished by the
 magafauna: the large mammals of a particular region, habit, or geological period
 weary: feeling or showing extreme tiredness, especially as a result of excessive exertion; reluctant to see or experience any more of ; tired of
 discriminatory: making or showing an unjust or prejudicial distinction between different categories of people, especially on the grounds of ethnicity, sex, age, or disability
+veal: the flesh of a calf, used as food
+flat: smooth and even; without marked lumps or indentations, lacking interest or emotion; dull an lifeless, (of a sparking drink) having lost its effervescence, (of a fee, wage, or price) the same in all cases, not varying with changed conditions or in particualr cases, (of musical sound)below true or normal pitch, (Flat)relating to flat racing
 
 
 
