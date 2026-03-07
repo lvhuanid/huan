@@ -61,6 +61,7 @@ meager: (of something provided or available) lacking in quantity or quality
 mammal: a warm-blooded vertebrate animal of a class that is distinguished by the prossession of hair or fur, the secretion of milk by females for the nourishment of the young, and (typically) the birth of live young
 magafauna: the large mammals of a particular region, habit, or geological period
 weary: feeling or showing extreme tiredness, especially as a result of excessive exertion; reluctant to see or experience any more of ; tired of
+discriminatory: making or showing an unjust or prejudicial distinction between different categories of people, especially on the grounds of ethnicity, sex, age, or disability
 
 
 
