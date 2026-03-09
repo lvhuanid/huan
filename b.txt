@@ -81,6 +81,22 @@ insubstantial: lacking strength and solidity
 substantial: of considerable importance, size, or worth
 They offer features that can make travel for a kid or a parent that much easier. And that's not insubstantial. Things like a swivel bottom, for example.
 potsherd: a broke piece of ceramic material, especially one found on an archaeological site.
+omnivorous
+thypical
+tether
+dynamometer
+succumb
+glucose-depletion
+
+A bat and ball cost $1.10.
+The bat costs one dollar more than the ball.
+How much does the ball cost?
+
+All roses are flowers.
+Some flowers fade quickly.
+Therefore some roses fade quickly.
+
+ardent
 
 
 
