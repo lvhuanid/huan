@@ -64,13 +64,9 @@ weary: feeling or showing extreme tiredness, especially as a result of excessive
 discriminatory: making or showing an unjust or prejudicial distinction between different categories of people, especially on the grounds of ethnicity, sex, age, or disability
 veal: the flesh of a calf, used as food
 flat: smooth and even; without marked lumps or indentations, lacking interest or emotion; dull an lifeless, (of a sparking drink) having lost its effervescence, (of a fee, wage, or price) the same in all cases, not varying with changed conditions or in particualr cases, (of musical sound)below true or normal pitch, (Flat)relating to flat racing
-fracture
+fracture: the cracking or breaking of a hard object or menterial
 
-As the
-writer Jason Zweig noted, “Obviously you’re never going to
-just work out without conscious thought. But like a dog
-salivating at a bell, maybe you start to get antsy around the
-time of day you normally work out.”
+As the writer Jason Zweig noted, “Obviously you’re never going to just work out without conscious thought. But like a dog salivating at a bell, maybe you start to get antsy around the time of day you normally work out.”
 
 overwhelm: bury or drown beneath a huge mass
 desirable: wanted or wished for as being an attractive, useful, or necessary course of action
@@ -81,12 +77,12 @@ insubstantial: lacking strength and solidity
 substantial: of considerable importance, size, or worth
 They offer features that can make travel for a kid or a parent that much easier. And that's not insubstantial. Things like a swivel bottom, for example.
 potsherd: a broke piece of ceramic material, especially one found on an archaeological site.
-omnivorous
-thypical
-tether
-dynamometer
-succumb
+omnivorous: (of an animal or person) feeding on food of both plant an animal origin
+typical: having the distinctive qualities of a particular type of person or thing
+dynamometer: an instrument which mesures the power output of an engine
+succumb: fail to resist pressure, temptation, or some other negative force
 glucose-depletion
+glucose: a simple sugar which is an important energy source in living organisms and is a component of many car
 
 A bat and ball cost $1.10.
 The bat costs one dollar more than the ball.
@@ -97,6 +93,9 @@ Some flowers fade quickly.
 Therefore some roses fade quickly.
 
 ardent
+bestow
+oasis
+integral: necessary to make a whole complete; essential or fundamental
 
 
 
