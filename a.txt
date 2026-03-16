@@ -1601,103 +1601,101 @@ inaugurate /ɪˈnɔːɡjəreɪt/ // (v.) formally begin or introduce (a system, 
 
 incentive /ɪnˈsentɪv/ // (n.) a thing that motivates or encourages someone to do something → The company offers a financial incentive to employees who work hard. 
 
-incidence
-incident
-incidentally
-incline
-academic
-academy
-accelerate
-accept
-acceptance
-access
-accessory
-begin
-beginning
-behalf
-behave
-behavior
-behaviour
-belief
-believe
-belong
-beneficial
-benefit
-benevolent
-benign
-challenge
-chance
-change
-channel
-character
-characterise
-characterize
-characteristic
-defend
-define
-definite
-definition
-defy
-degree
-delay
-deliberate
-delicate
-deliver
-delivery
-fiction
-field
-fierce
-fight
-figure
-finance
-financial
-finding
-finite
-firm
-first
-fit
-global
-globe
-mediate
-meditation
-medium
-media
-elaborate
-elegant
-element
-elementary
-eliminate
-abolish
-absence
-absent
-abroad
-absolute
-absorb
-abstract
-ban
-bar
-bare
-barely
-bargain
-capable
-capacity
-capital
-captive
-capture
-career
-careful
-case
-cast
-casual
-casualty
-catch
-category
-cater
-cause
-caution
-cautious
-cease
-celebrate
+Incidence: The frequency or rate of something happening.
+Incident: An event or occurrence.
+Incidentally: By the way; used to introduce a supplementary or different topic.
+Incline: 1. To have a tendency or preference. 2. A slope or raised surface.
+Academic: Relating to education and scholarship.
+Academy: A school or college for special instruction.
+Accelerate: To begin to move more quickly.
+Accept: To receive (something offered).
+Acceptance: The action of consenting to receive or undertake something.
+Access: A way of approaching or entering a place.
+Accessory: 1. An additional item that contributes to beauty. 2. A person associated with another in a wrong act.
+Begin: To commence.
+Beginning: The point at which something starts.
+Behalf: 1. Interest or advantage. 2. Support or defense of a person or policy.
+Behave: To act in a particular way.
+Behavior (US) / Behaviour (UK): The way in which one acts or conducts oneself.
+Belief: An acceptance that something exists or is true.
+Believe: To accept as true or real.
+Belong: 1. To be rightfully the property of someone. 2. To be a member of a group.
+Beneficial: Resulting in good; favorable.
+Benefit: An advantage or profit gained.
+Benevolent: Well-meaning and kindly.
+Benign: Gentle and kind; not harmful.
+Challenge: A task or situation that tests someone's abilities.
+Chance: A possibility of something happening.
+Change: To make or become different.
+Channel: A route or direction for movement.
+Character: 1. The mental and moral qualities of an individual. 2. A person in a novel or play.
+Characterise (US) / Characterize (UK): To describe the character or qualities of.
+Characteristic: A feature that helps to identify something.
+Defend: To resist an attack on.
+Define: To state or describe exactly the nature of something.
+Definite: Clearly stated or defined.
+Definition: A statement that explains the meaning of a word.
+Defy: To resist or confront with boldness.
+Degree: A unit of measurement for angles or temperature; a stage or level.
+Delay: To make something take place at a later time.
+Deliberate: Done consciously and intentionally.
+Delicate: Easily broken or damaged; requiring careful handling.
+Deliver: To bring and hand over something.
+Delivery: The action of handing something over.
+Fiction: Literature featuring imaginary events.
+Field: An area of open land.
+Fierce: Savagely aggressive or intense.
+Fight: To engage in a violent struggle.
+Figure: 1. A number. 2. The shape or form of a person.
+Finance: The management of money.
+Financial: Relating to money or finance.
+Finding: A result of an inquiry or investigation.
+Finite: Having limits or bounds.
+Firm: Solid or hard; not easily broken.
+First: Coming before all others.
+Fit: Suitable to be placed in or match exactly.
+Global: Relating to the whole world.
+Globe: The spherical figure of the earth.
+Mediate: To intervene in a dispute to bring about resolution.
+Meditation: The practice of focusing the mind to achieve mental clarity.
+Medium: A channel or means of communication.
+Media: Mass communication (newspapers, radio, TV).
+Elaborate: To add more details or information.
+Elegant: Pleasingly graceful and stylish.
+Element: A fundamental part of something.
+Elementary: Relating to the basic principles of something.
+Eliminate: To completely remove or get rid of something.
+Abolish: To formally put an end to something.
+Absence: The state of being away or not present.
+Absent: Not present.
+Abroad: In or to a foreign country.
+Absolute: Not qualified or diminished in any way.
+Absorb: To suck in or take in.
+Abstract: Existing in thought or as an idea.
+Ban: To officially or legally prohibit something.
+Bar: 1. A long counter. 2. A barrier or obstacle.
+Bare: 1. Uncovered. 2. Just enough.
+Barely: Only just; almost not.
+Bargain: An agreement between parties.
+Capable: Having the ability or quality to do something.
+Capacity: The ability or power to do something.
+Capital: 1. Money. 2. The most important city.
+Captive: A person who has been taken prisoner.
+Capture: To take someone or something by force.
+Career: An occupation undertaken for a significant period of a person's life.
+Careful: Moving with caution.
+Case: An instance of a particular situation.
+Cast: To throw or hurl.
+Casual: Done without much thought or planning.
+Casualty: A person who is injured or killed in an accident.
+Catch: To intercept and hold something.
+Category: A class or division of something.
+Cater: To provide food and drink.
+Cause: A reason for an action.
+Caution: Care taken to avoid danger or mistakes.
+Cautious: Showing careful judgment.
+Cease: To stop doing something.
+Celebrate: To acknowledge a notable occasion with festivities.
 celebrity
 ceremony
 certain
