@@ -121,6 +121,8 @@ criticize: to express disapproval of someone or something
 In other words, there is virtually universal agreement in the field that we cannot hope to understand how and why people behave in certain ways in social situations without considering their thoughts, memory, intentions, emotions, attitudes, and beliefs. Similarly, virtually all social psychologists agree that there is a continuing and complex interplay between social thought and social behavior.
 newlywed: someon who has recently married 
 
+reinitialized
+
 
 
 
