@@ -124,8 +124,19 @@ newlywed: someon who has recently married
 reinitialized
 schizophrenia
 
+pre-training
+finetuning
+post-training
 
+hallucinations and inconsistencies
 
+standoff: a situation in which agreement in an argument does not seem possible
+hallucination: the experience of seeing, hearing, feeling, or smelling something that does not usually bacause of a health condition or because you have taken a drug;
+inconsistency: the fact of containing some ideas, statements, arguments, etc. that do not agree with others, or something such as an idea, statement, or argument that has this quality
+mitigate: to make something less harmful, unpleasant, or bad
+tangent: a straight line that touches but does not cut into a curve
+presentation: a talk giving information about something
+oscilloscopes: a device that represents a changing amount on a screen in the form of a line that moves up and down in curves
 
 
 
