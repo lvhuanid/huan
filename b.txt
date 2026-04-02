@@ -138,6 +138,8 @@ tangent: a straight line that touches but does not cut into a curve
 presentation: a talk giving information about something
 oscilloscopes: a device that represents a changing amount on a screen in the form of a line that moves up and down in curves
 
+subtlety: the quality of being subrtle
+
 
 
 
